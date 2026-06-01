@@ -12,7 +12,7 @@
 - 4️⃣ [Participação e Conquistas na Competição Supernova no Sebrae]
 - 
 - 7️⃣ [Card Oficial do Evento](#card-oficial)
-	- [Grupo 1 - ](#grupo-1---)
+	- [Grupo 1 - ](#grupo-1---OwnMyWay)
 	- [Grupo 2 - TimerBook](#grupo-2---TimerBook)
 	- [Grupo 3 - ](#grupo-3---)
 	- [Grupo 4 - Vibeevents](#grupo-4---vibeevents)
