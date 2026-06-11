@@ -70,28 +70,51 @@ Evento de encerramento em que os projetos são apresentados à banca avaliadora 
 <a id="projetos-startups"></a>
 # 6. 🛠️ Projetos das startups
 
-[Cada um dos grupos deve criar uma branch e ter como base o readme dessa develop. Nessa branch criada, a equipe coloca os dados do seu respectivo grupo no seguinte formato:
 
-	6.1 Startup NOME
-	(As orientações abaixo são para orientar cada um dos grupos sobre as informações que precisam constar no repositório)
-	[ * Descrição do produto
-	  * logo da startup
-	* integrantes do time
-	* todos os links das entregas. Os links não podem apontar para recursos externos ao repositório.
-		- link do repositório do projeto
-		- Vídeo do pitch entregue para o Desafio Supernova
-		- Landing Page do produto
-		- Vídeo demonstrativo do produto
-		- Apresentação Técnica
-		- Apresentação Comercial
-		- APK do produto
-	* Foto da equipe no dia do Evento Startup-SE]
+<a id="grupo-6---Unicarona"></a>
+
+## 6.6 StartUP Unicarona
+
+### Descrição do Produto
+
+![UniCarona](https://unicarona.caykedev.com/favicon.svg)
+
+O **UniCarona** é uma plataforma mobile de caronas universitárias que:
+
+- 🚗 Conecta motoristas e passageiros da mesma instituição de ensino
+- 📍 Exibe caronas disponíveis no mapa com filtro geográfico (Haversine)
+- 💳 Permite solicitação de vaga com checkout de pagamento integrado
+- 🔔 Acompanhamento de pedidos em tempo real (long-polling)
+- 🌱 Promove mobilidade sustentável e economia compartilhada
+
+### Integrantes
+
+| Nome | Matrícula | GitHub |
+|------|-----------|--------|
+| Cayke Veras | 2022216647 | [@cayke1](https://github.com/cayke1) |
+| Filipe Silva Coelho | 2021213520 | [@Purazika](https://github.com/Purazika) |
+| João Pedro Oliveira Barbosa | 2021212999 | [@Iohanan-Cephas](https://github.com/Iohanan-Cephas) |
+| Gabryel Dellanne Santiago Araújo | 2022218136 | [@dellannegabryel-commits](https://github.com/dellannegabryel-commits) |
+| Lucas Gabriel Costa Farias | 2023011244 | [@ilwca](https://github.com/ilwca) |
+| Lucas Yudi Modesto | 2022218687 | [@Yuud1](https://github.com/Yuud1) |
+
+### Repositórios
+
+🔗 [Frontend](https://github.com/cayke1/Unicarona-Frontend) | [Backend](https://github.com/cayke1/UniCarona-Backend)
+
+### Documentação Técnica
+
+| Item | Link |
+|------|------|
+| Landing Page | [unicarona.caykedev.com](https://unicarona.caykedev.com/) |
+| Download do APK | [APK](https://unicarona.caykedev.com/#download) |
+| Apresentação Técnica | [Apresentação](./Unicarona//Apresentação%20Técnica.pptx) |
+| Documentação Swagger | `http://[host]:3000/api-docs` |
+| Vídeo de Demonstração | em breve |
 
 
-	6.2
 
-	6.3
-	....
+
 
 
 # 7. ⭐ Foto da Turma
