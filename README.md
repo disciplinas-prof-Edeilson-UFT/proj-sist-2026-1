@@ -8,48 +8,54 @@
 
 ## Grupos
 
-- [Grupo 6 - UniCarona](#grupo-6---unicarona)
+- [Grupo 1 - OwnMyWay](#grupo-1---OwnMyWay)
 
 ---
 
-## Grupo 6 - UniCarona
+## Grupo 1 - OwnMyWay
 
 ### Descrição do Produto
 
-![UniCarona](https://unicarona.caykedev.com/favicon.svg)
+![OwnMyWay](https://felixjp23.github.io/OwnMyWay/)
 
-O **UniCarona** é uma plataforma mobile de caronas universitárias que:
+O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
 
-- 🚗 Conecta motoristas e passageiros da mesma instituição de ensino
-- 📍 Exibe caronas disponíveis no mapa com filtro geográfico (Haversine)
-- 💳 Permite solicitação de vaga com checkout de pagamento integrado
-- 🔔 Acompanhamento de pedidos em tempo real (long-polling)
-- 🌱 Promove mobilidade sustentável e economia compartilhada
+
+Cria roteiros de viagem únicos baseados em hobbies, ritmo e orçamento do usuário
+Utiliza inteligência artificial (Gemini 2.0) para análise visual e recomendações em tempo real
+Estima gasto real por local e total da rota com heurística por tipo de lugar
+Funciona completamente offline com mapas OpenStreetMap para qualquer destino
+Permite salvar rotas personalizadas com nome e descrição para reutilização
+Oferece rede social integrada com sistema de amizades e feed de atividades
+Utiliza algoritmo inteligente que otimiza trajeto via Google Directions API
+
+
+Stack: Kotlin nativo · Supabase · Google Maps/Places/Directions · OpenStreetMap
 
 ### Integrantes
 
 | Nome | Matrícula | GitHub |
 |------|-----------|--------|
-| Cayke Veras | 2022216647 | [@cayke1](https://github.com/cayke1) |
-| Filipe Silva Coelho | 2021213520 | [@Purazika](https://github.com/Purazika) |
-| João Pedro Oliveira Barbosa | 2021212999 | [@Iohanan-Cephas](https://github.com/Iohanan-Cephas) |
+| João Pedro Felix Veloso |  2024110226 | [@FelixJP23](https://github.com/FelixJP23) |
+| Artur Anderson Alves Corrêa  | 2024110814 | [@ArturML01](https://github.com/ArturML01) |
+| Giovana Torres de Lima Silva | 2024111692 | [@F4RFALLA](https://github.com/F4RFALLA) |
 | Gabryel Dellanne Santiago Araújo | 2022218136 | [@dellannegabryel-commits](https://github.com/dellannegabryel-commits) |
 | Lucas Gabriel Costa Farias | 2023011244 | [@ilwca](https://github.com/ilwca) |
-| Lucas Yudi Modesto | 2022218687 | [@Yuud1](https://github.com/Yuud1) |
+
 
 ### Repositórios
 
-🔗 [Frontend](https://github.com/cayke1/Unicarona-Frontend) | [Backend](https://github.com/cayke1/UniCarona-Backend)
+🔗 [Repositório do app](https://github.com/FelixJP23/OwnMyWay)
 
 ### Documentação Técnica
 
 | Item | Link |
 |------|------|
-| Landing Page | [unicarona.caykedev.com](https://unicarona.caykedev.com/) |
-| Download do APK | [APK](https://unicarona.caykedev.com/#download) |
-| Apresentação Técnica | [Apresentação](./Unicarona//Apresentação%20Técnica.pptx) |
-| Documentação Swagger | `http://[host]:3000/api-docs` |
-| Vídeo de Demonstração | em breve |
+| Landing Page | [OwnMyWay.github.io](https://felixjp23.github.io/OwnMyWay/) |
+| Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
+| Apresentação Técnica | [Apresentação](https://github.com/FelixJP23/OwnMyWay/blob/main/Apresentac%C3%A3o_tecnica.pdf) |
+
+| Vídeo de Demonstração | [Vídeo](https://www.youtube.com/watch?v=Flz4_X3lE1Q) |
 
 ---
 
