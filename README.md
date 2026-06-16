@@ -54,7 +54,6 @@ Stack: Kotlin nativo · Supabase · Google Maps/Places/Directions · OpenStreetM
 | Landing Page | [OwnMyWay.github.io](https://felixjp23.github.io/OwnMyWay/) |
 | Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
 | Apresentação Técnica | [Apresentação](https://github.com/FelixJP23/OwnMyWay/blob/main/Apresentac%C3%A3o_tecnica.pdf) |
-
 | Vídeo de Demonstração | [Vídeo](https://www.youtube.com/watch?v=Flz4_X3lE1Q) |
 
 ---
