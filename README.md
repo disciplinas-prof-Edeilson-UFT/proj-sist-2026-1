@@ -39,8 +39,8 @@ Stack: Kotlin nativo · Supabase · Google Maps/Places/Directions · OpenStreetM
 | João Pedro Felix Veloso |  2024110226 | [@FelixJP23](https://github.com/FelixJP23) |
 | Artur Anderson Alves Corrêa  | 2024110814 | [@ArturML01](https://github.com/ArturML01) |
 | Giovana Torres de Lima Silva | 2024111692 | [@F4RFALLA](https://github.com/F4RFALLA) |
-| Gabryel Dellanne Santiago Araújo | 2022218136 | [@dellannegabryel-commits](https://github.com/dellannegabryel-commits) |
-| Lucas Gabriel Costa Farias | 2023011244 | [@ilwca](https://github.com/ilwca) |
+| Ricardo Pereira Rodrigues de Carvalho | 2024110252 | [@devricardorodrigues](https://github.com/devricardorodrigues) |
+| Lucas Gabriel Costa Farias | 2023011244 | [@LeanAlbu](https://github.com/LeanAlbu) |
 
 
 ### Repositórios
