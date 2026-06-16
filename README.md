@@ -16,7 +16,7 @@
 
 ### Descrição do Produto
 
-![OwnMyWay](https://felixjp23.github.io/OwnMyWay/)
+![OwnMyWay](https://github.com/FelixJP23/OwnMyWay/blob/main/app/src/main/res/drawable/own_my_way_logo.png)
 
 O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
 
