@@ -71,6 +71,53 @@ Evento de encerramento em que os projetos são apresentados à banca avaliadora 
 # 6. 🛠️ Projetos das startups
 
 
+<a id="#grupo-1---OwnMyWay"></a>
+## 6.1 StartUP OwnMyWay
+
+### Descrição do Produto
+
+![OwnMyWay](https://github.com/FelixJP23/OwnMyWay/blob/main/app/src/main/res/drawable/own_my_way_logo.png)
+
+O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
+
+
+Cria roteiros de viagem únicos baseados em hobbies, ritmo e orçamento do usuário
+Utiliza inteligência artificial (Gemini 2.0) para análise visual e recomendações em tempo real
+Estima gasto real por local e total da rota com heurística por tipo de lugar
+Funciona completamente offline com mapas OpenStreetMap para qualquer destino
+Permite salvar rotas personalizadas com nome e descrição para reutilização
+Oferece rede social integrada com sistema de amizades e feed de atividades
+Utiliza algoritmo inteligente que otimiza trajeto via Google Directions API
+
+
+Stack: Kotlin nativo · Supabase · Google Maps/Places/Directions · OpenStreetMap
+
+### Integrantes
+
+| Nome | Matrícula | GitHub |
+|------|-----------|--------|
+| João Pedro Felix Veloso |  2024110226 | [@FelixJP23](https://github.com/FelixJP23) |
+| Artur Anderson Alves Corrêa  | 2024110814 | [@ArturML01](https://github.com/ArturML01) |
+| Giovana Torres de Lima Silva | 2024111692 | [@F4RFALLA](https://github.com/F4RFALLA) |
+| Ricardo Pereira Rodrigues de Carvalho | 2024110252 | [@devricardorodrigues](https://github.com/devricardorodrigues) |
+| Lean de Albuquerque Pereira | 2024110745 | [@LeanAlbu](https://github.com/LeanAlbu) |
+
+
+### Repositórios
+
+🔗 [Repositório do app](https://github.com/FelixJP23/OwnMyWay)
+
+### Documentação Técnica
+
+| Item | Link |
+|------|------|
+| Landing Page | [OwnMyWay.github.io](https://felixjp23.github.io/OwnMyWay/) |
+| Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
+| Apresentação Técnica | [Apresentação](https://github.com/FelixJP23/OwnMyWay/blob/main/Apresentac%C3%A3o_tecnica.pdf) |
+| Vídeo de Demonstração | [Vídeo](https://www.youtube.com/watch?v=Flz4_X3lE1Q) |
+
+
+
 <a id="grupo-6---Unicarona"></a>
 
 ## 6.6 StartUP Unicarona
