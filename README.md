@@ -198,7 +198,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 |------|------|
 | Landing Page | [lucas-mcarvalho.github.io/TimerBook_PS](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
 | Vídeo do Pitch (Desafio Supernova) | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
-| Vídeo de Demonstração | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir à demo](COLE_O_LINK_AQUI) --> |
+| Vídeo de Demonstração |  [Assistir à demo](https://youtu.be/IpGd2R0_AH8) |
 | Apresentação Técnica | [Ver apresentação](https://github.com/lucas-mcarvalho/TimerBook_PS/blob/main/docs/apresentacao_tecnica.pdf) |
 | Apresentação Comercial | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
 | Download do APK | 🔜 _Será adicionado em breve_ <!-- substituir por: [Baixar APK](COLE_O_LINK_AQUI) --> |
