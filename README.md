@@ -54,3 +54,40 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 ---
 
 *Projeto desenvolvido como entrega final da disciplina Projeto de Sistemas — UFT, 2026/1.*
+
+
+
+
+## Grupo 4 - VibeEvents
+
+### Descrição do Produto
+
+![VibeEvents](#)
+
+O VibeEvents é uma plataforma de integração regional de eventos com foco em impacto social que:
+
+  -🗺️ Conecta empreendedores locais, estudantes e ONGs por meio de um mapa interativo
+  -📍 Facilita a descoberta e a integração de eventos regionais de Palmas e região
+  -🤝 Promove o ecossistema cultural e o engajamento comunitário com foco social
+  -📈 Fortalece a visibilidade de iniciativas e negócios de impacto local### Integrantes
+
+| Nome | Matrícula | GitHub |
+|------|-----------|--------|
+| Cristian Herrera | 2024110672 | [@HerreraCris](https://github.com/HerreraCris) |
+| Gabryel Marques |  2022115943 | [@GabryelMarques](https://github.com/GabryelMarques) |
+| Laurinda Nhanga | 2020111950 | [@nhangamona](https://github.com/nhangamona) |
+| Vinicius Simon | 2024110898 | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
+
+### Repositórios
+
+🔗 [VibeEvents - GitHub](https://github.com/HerreraCris/VibeEvents) 
+|------|------|
+| Landing Page | [Aqui](#) |
+| Download do APK | [APK](#) |
+| Apresentação Técnica | [Apresentação](#) |
+| Vídeo de Demonstração | em breve |
+
+---
+
+*Projeto desenvolvido como entrega final da disciplina Projeto de Sistemas — UFT, 2026/1.*
+
