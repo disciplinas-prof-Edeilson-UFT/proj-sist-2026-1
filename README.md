@@ -259,10 +259,10 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 | Item | Link |
 |------|------|
-| Landing Page | [Aqui](#) |
-| Download do APK | [APK](#) |
-| Apresentação Técnica | [Apresentação](#) |
-| Vídeo de Demonstração | em breve |
+| Landing Page | 🔜 _Será adicionada em breve_ |
+| Download do APK | 🔜 _Será adicionada em breve_ |
+| Apresentação Técnica | 🔜 _Será adicionada em breve_ |
+| Vídeo de Demonstração | 🔜 _Será adicionada em breve_ |
 
 ---
 
