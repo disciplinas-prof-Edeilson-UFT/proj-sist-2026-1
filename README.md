@@ -1,22 +1,306 @@
-# Projeto de Sistemas 2026/1 | Universidade Federal do Tocantins - Palmas
+<div align="center">
 
-**Curso:** Bacharelado em Ciência da Computação
-**Professor:** Edeilson Milhomem da Silva
-**Período:** 2026/1
+# 📚 Projeto de Sistemas — 2026/1
+
+### Universidade Federal do Tocantins · Câmpus de Palmas
+
+![Curso](https://img.shields.io/badge/Curso-Ciência_da_Computação-1B3A5B?style=for-the-badge)
+![Professor](https://img.shields.io/badge/Professor-Dr._Edeilson_Milhomem_da_Silva-2E7D9A?style=for-the-badge)
+![Período](https://img.shields.io/badge/Período-2026%2F1-4CAF93?style=for-the-badge)
+
+</div>
 
 ---
 
-## Grupos
+## 🧭 Sumário
 
-- [Grupo 6 - UniCarona](#grupo-6---unicarona)
+| # | Seção |
+|---|-------|
+| 1️⃣ | [Sobre a Disciplina Projeto de Sistemas](#1--sobre-a-disciplina) |
+| 2️⃣ | [Prof. Edeilson Milhomem da Silva](#2--professor-responsável-edeilson-milhomem-da-silva) |
+| 3️⃣ | [Notícias e Reconhecimentos](#3--notícias-e-reconhecimentos) |
+| 4️⃣ | [Participação e Conquistas na Competição Supernova no Sebrae](#4--participação-e-conquistas-na-competição-supernova-sebrae) |
+| 5️⃣ | [Startup-SE](#5--startup-se) |
+| 6️⃣ | [Projetos das startups](#6--projetos-das-startups) |
+| &nbsp;&nbsp;↳ | [Grupo 1 — OwnMyWay](#61--startup-ownmyway) |
+| &nbsp;&nbsp;↳ | [Grupo 2 — TimerBook](#62--startup-timerbook) |
+| &nbsp;&nbsp;↳ | [Grupo 3 — Lava-me](#63--startup-lava-me) |
+| &nbsp;&nbsp;↳ | [Grupo 4 — Vibeevents](#64--startup-vibeevents) |
+| &nbsp;&nbsp;↳ | [Grupo 5 — Superdott](#65--startup-superdott) |
+| &nbsp;&nbsp;↳ | [Grupo 6 — Unicarona](#66--startup-unicarona) |
 
 ---
 
-## Grupo 6 - UniCarona
+## 1. 📘 Sobre a Disciplina
 
-### Descrição do Produto
+> A disciplina **Projeto de Sistemas** é ofertada no 5º período do curso de Bacharelado em Ciência da Computação do Câmpus de Palmas da UFT.
 
-![UniCarona](https://unicarona.caykedev.com/favicon.svg)
+A disciplina tem como proposta envolver os estudantes em um processo prático e dinâmico de desenvolvimento de soluções inovadoras, startups e produtos de software, por meio da aplicação de metodologias ativas e práticas profissionais de engenharia de software. Na disciplina, os estudantes participam de todas as etapas do processo de construção da solução, desde a identificação de problemas e ideação até a validação e apresentação final no formato de pitch durante o evento Startup-SE.
+
+---
+
+## 2. 👤 Professor Responsável: Edeilson Milhomem da Silva
+
+O prof. Edeilson Milhomem da Silva é doutor em Ciência da Computação e professor do Curso de Bacharelado em Ciência da Computação da UFT. Atua na promoção de iniciativas que aproximam academia e mercado, com foco em inovação, empreendedorismo tecnológico e engenharia de software. Em 2026, recebeu do SEBRAE o prêmio "Professor Empreendedor". É coautor do livro *Sistemas Colaborativos*, obra reconhecida nacionalmente na área e premiada com o 3º lugar no Prêmio Jabuti 2012, na categoria Tecnologia e Informática. Também é cofundador do Movimento Startup Tocantins, iniciativa voltada ao fortalecimento do ecossistema de inovação e empreendedorismo no estado do Tocantins. Coordena o Laboratório EPIC de Aprendizagem Colaborativa, espaço dedicado à inovação, metodologias ativas e desenvolvimento de competências empreendedoras. No EPIC, lidera projetos voltados à criação de soluções tecnológicas alinhadas às demandas reais da sociedade e do setor produtivo.
+
+---
+
+## 3. 📰 Notícias e Reconhecimentos
+
+---
+
+## 4. 🎤 Participação e Conquistas na Competição Supernova Sebrae
+
+Os projetos de startups desenvolvidos participaram da competição Sebrae Supernova. O Sebrae Supernova é um programa do Sebrae, em parceria com o Ministério da Educação (MEC), que objetiva ensinar a transformar ideias acadêmicas em negócios de alto impacto.
+
+### 4.1 Participação na Final Estadual
+
+> _[Listar Times se Houver]_
+
+### 4.2 Campeão Estadual e Finalista Nacional
+
+> _[Inserir Time se Houver]_
+
+---
+
+## 5. 💡 Startup-SE
+
+Evento de encerramento em que os projetos são apresentados à banca avaliadora e ao público presente. O evento foi realizado em parceria com o SEBRAE Tocantins no auditório do SEBRAE Tocantins, na cidade de Palmas.
+
+> _[Publicar:_
+> - _banner de divulgação do evento_
+> - _logo do evento_
+> - _fotografias do evento]_
+
+---
+
+## 6. 🛠 Projetos das Startups
+
+---
+
+### 6.1 🚀 StartUP OwnMyWay
+
+<div align="center">
+
+<img src="https://github.com/FelixJP23/OwnMyWay/blob/main/app/src/main/res/drawable/own_my_way_logo.png" alt="OwnMyWay" width="160" />
+
+</div>
+
+#### 📝 Descrição do Produto
+
+O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
+
+- Cria roteiros de viagem únicos baseados em hobbies, ritmo e orçamento do usuário
+- Utiliza inteligência artificial (Gemini 2.0) para análise visual e recomendações em tempo real
+- Estima gasto real por local e total da rota com heurística por tipo de lugar
+- Funciona completamente offline com mapas OpenStreetMap para qualquer destino
+- Permite salvar rotas personalizadas com nome e descrição para reutilização
+- Oferece rede social integrada com sistema de amizades e feed de atividades
+- Utiliza algoritmo inteligente que otimiza trajeto via Google Directions API
+
+**Stack:**
+
+![Kotlin](https://img.shields.io/badge/Kotlin_nativo-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Google](https://img.shields.io/badge/Google_Maps%2FPlaces%2FDirections-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![OSM](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+
+#### 👥 Integrantes
+
+| Nome | GitHub |
+|------|--------|
+| João Pedro Felix Veloso | [@FelixJP23](https://github.com/FelixJP23) |
+| Artur Anderson Alves Corrêa | [@ArturML01](https://github.com/ArturML01) |
+| Giovana Torres de Lima Silva | [@F4RFALLA](https://github.com/F4RFALLA) |
+| Ricardo Pereira Rodrigues de Carvalho | [@devricardorodrigues](https://github.com/devricardorodrigues) |
+| Lean de Albuquerque Pereira | [@LeanAlbu](https://github.com/LeanAlbu) |
+
+#### 📦 Repositórios
+
+🔗 [Repositório do app](https://github.com/FelixJP23/OwnMyWay)
+
+#### 📑 Documentação Técnica
+
+| Item | Link |
+|------|------|
+| Landing Page | [OwnMyWay.github.io](https://felixjp23.github.io/OwnMyWay/) |
+| Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
+| Apresentação Técnica | [Apresentação](https://github.com/FelixJP23/OwnMyWay/blob/main/Apresentac%C3%A3o_tecnica.pdf) |
+| Vídeo de Demonstração | [Vídeo](https://www.youtube.com/watch?v=Flz4_X3lE1Q) |
+
+---
+
+### 6.2 🚀 StartUP TimerBook
+
+<div align="center">
+
+<img src="https://github.com/lucas-mcarvalho/TimerBook_PS/blob/main/docs/logo_timerbook.png" alt="TimerBook" width="160" />
+
+</div>
+
+#### 📝 Descrição do Produto
+
+O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoal que:
+
+- 📖 Permite adicionar e ler seus próprios livros em um leitor totalmente integrado
+- 🤖 Conta com uma **IA de contexto ativo** que resume e explica o conteúdo da página exata em tempo real
+- 🎯 Transforma a leitura em hábito gamificado, com sistema de metas diárias e conquistas
+- 📊 Gera relatórios e análises de desempenho de leitura no perfil do usuário
+- ☁️ Mantém a biblioteca sincronizada entre os ambientes web e mobile
+
+**Stack:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Modal](https://img.shields.io/badge/Modal-Deploy-7B68EE?style=flat-square)
+
+#### 👥 Integrantes
+
+| Nome | GitHub |
+|------|--------|
+| Lucas Monteiro | [@lucas-mcarvalho](https://github.com/lucas-mcarvalho) |
+| Tiago Barbosa | [@TiagoBrs](https://github.com/TiagoBrs) |
+| Matheus Pontes | [@matheuspontes01](https://github.com/matheuspontes01) |
+| Bruno | [@Bruno-uft](https://github.com/Bruno-uft) |
+| Vitor Kawan | [@KawanVitor1](https://github.com/KawanVitor1) |
+| Kayke Zago | [@kayke002](https://github.com/kayke002) |
+
+#### 📦 Repositórios
+
+🔗 [Repositório Web](https://github.com/lucas-mcarvalho/TimerBook_PS) | [Repositório Mobile](https://github.com/lucas-mcarvalho/TimerBookMobile)
+
+#### 📑 Documentação Técnica
+
+| Item | Link |
+|------|------|
+| Landing Page | [lucas-mcarvalho.github.io/TimerBook_PS](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
+| Vídeo do Pitch (Desafio Supernova) | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Vídeo de Demonstração |  [Assistir à demo](https://youtu.be/IpGd2R0_AH8) |
+| Apresentação Técnica | [Ver apresentação](https://github.com/lucas-mcarvalho/TimerBook_PS/blob/main/docs/apresentacao_tecnica.pdf) |
+| Apresentação Comercial | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Download do APK | 🔜 _Será adicionado em breve_ <!-- substituir por: [Baixar APK](COLE_O_LINK_AQUI) --> |
+
+#### 📸 Foto da Equipe (Startup-SE)
+
+<div align="center">
+
+🔜 _Será adicionada em breve_
+
+<!-- substituir por: <img src="COLE_O_LINK_DA_FOTO_AQUI" alt="Equipe TimerBook no Startup-SE" width="480" /> -->
+
+</div>
+
+---
+
+### 6.3 🚀 StartUP Lava-me
+
+<div align="center">
+
+<img src="#" alt="Lava-me" width="160" />
+
+</div>
+
+#### 📝 Descrição do Produto
+
+🔜 _Será adicionada em breve_
+
+#### 👥 Integrantes
+
+🔜 _Será adicionada em breve_
+
+#### 📦 Repositórios
+
+🔜 _Será adicionado em breve_
+
+#### 📑 Documentação Técnica
+
+🔜 _Será adicionada em breve_
+
+---
+
+### 6.4 🚀 StartUP VibeEvents
+
+<div align="center">
+
+<img src="#" alt="VibeEvents" width="160" />
+
+</div>
+
+#### 📝 Descrição do Produto
+
+O **VibeEvents** é uma plataforma de integração regional de eventos com foco em impacto social que:
+
+- 🗺️ Conecta empreendedores locais, estudantes e ONGs por meio de um mapa interativo
+- 📍 Facilita a descoberta e a integração de eventos regionais de Palmas e região
+- 🤝 Promove o ecossistema cultural e o engajamento comunitário com foco social
+- 📈 Fortalece a visibilidade de iniciativas e negócios de impacto local
+
+#### 👥 Integrantes
+
+| Nome | GitHub |
+|------|--------|
+| Cristian Herrera | [@HerreraCris](https://github.com/HerreraCris) |
+| Gabryel Marques | [@GabryelMarques](https://github.com/GabryelMarques) |
+| Laurinda Nhanga | [@nhangamona](https://github.com/nhangamona) |
+| Vinicius Simon | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
+
+#### 📦 Repositórios
+
+🔗 [Repositório](https://github.com/HerreraCris/VibeEvents)
+
+#### 📑 Documentação Técnica
+
+| Item | Link |
+|------|------|
+| Landing Page | 🔜 _Será adicionada em breve_ |
+| Download do APK | 🔜 _Será adicionada em breve_ |
+| Apresentação Técnica | 🔜 _Será adicionada em breve_ |
+| Vídeo de Demonstração | 🔜 _Será adicionada em breve_ |
+
+---
+
+### 6.5 🚀 StartUP Superdott
+
+<div align="center">
+
+<img src="#" alt="Superdott" width="160" />
+
+</div>
+
+#### 📝 Descrição do Produto
+
+🔜 _Será adicionada em breve_
+
+#### 👥 Integrantes
+
+🔜 _Será adicionada em breve_
+
+#### 📦 Repositórios
+
+🔜 _Será adicionado em breve_
+
+#### 📑 Documentação Técnica
+
+🔜 _Será adicionada em breve_
+
+---
+
+### 6.6 🚀 StartUP Unicarona
+
+<div align="center">
+
+<img src="https://unicarona.caykedev.com/favicon.svg" alt="UniCarona" width="160" />
+
+</div>
+
+#### 📝 Descrição do Produto
 
 O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
@@ -26,22 +310,22 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 - 🔔 Acompanhamento de pedidos em tempo real (long-polling)
 - 🌱 Promove mobilidade sustentável e economia compartilhada
 
-### Integrantes
+#### 👥 Integrantes
 
-| Nome | Matrícula | GitHub |
-|------|-----------|--------|
-| Cayke Veras | 2022216647 | [@cayke1](https://github.com/cayke1) |
-| Filipe Silva Coelho | 2021213520 | [@Purazika](https://github.com/Purazika) |
-| João Pedro Oliveira Barbosa | 2021212999 | [@Iohanan-Cephas](https://github.com/Iohanan-Cephas) |
-| Gabryel Dellanne Santiago Araújo | 2022218136 | [@dellannegabryel-commits](https://github.com/dellannegabryel-commits) |
-| Lucas Gabriel Costa Farias | 2023011244 | [@ilwca](https://github.com/ilwca) |
-| Lucas Yudi Modesto | 2022218687 | [@Yuud1](https://github.com/Yuud1) |
+| Nome | GitHub |
+|------|--------|
+| Cayke Veras | [@cayke1](https://github.com/cayke1) |
+| Filipe Silva Coelho | [@Purazika](https://github.com/Purazika) |
+| João Pedro Oliveira Barbosa | [@Iohanan-Cephas](https://github.com/Iohanan-Cephas) |
+| Gabryel Dellanne Santiago Araújo | [@dellannegabryel-commits](https://github.com/dellannegabryel-commits) |
+| Lucas Gabriel Costa Farias | [@ilwca](https://github.com/ilwca) |
+| Lucas Yudi Modesto | [@Yuud1](https://github.com/Yuud1) |
 
-### Repositórios
+#### 📦 Repositórios
 
 🔗 [Frontend](https://github.com/cayke1/Unicarona-Frontend) | [Backend](https://github.com/cayke1/UniCarona-Backend)
 
-### Documentação Técnica
+#### 📑 Documentação Técnica
 
 | Item | Link |
 |------|------|
@@ -53,41 +337,10 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 ---
 
-*Projeto desenvolvido como entrega final da disciplina Projeto de Sistemas — UFT, 2026/1.*
+## 7. ⭐ Foto da Turma
 
+<div align="center">
 
+_[Inserir foto da turma]_
 
-
-## Grupo 4 - VibeEvents
-
-### Descrição do Produto
-
-![VibeEvents](#)
-
-O VibeEvents é uma plataforma de integração regional de eventos com foco em impacto social que:
-
-  -🗺️ Conecta empreendedores locais, estudantes e ONGs por meio de um mapa interativo
-  -📍 Facilita a descoberta e a integração de eventos regionais de Palmas e região
-  -🤝 Promove o ecossistema cultural e o engajamento comunitário com foco social
-  -📈 Fortalece a visibilidade de iniciativas e negócios de impacto local### Integrantes
-
-| Nome | Matrícula | GitHub |
-|------|-----------|--------|
-| Cristian Herrera | 2024110672 | [@HerreraCris](https://github.com/HerreraCris) |
-| Gabryel Marques |  2022115943 | [@GabryelMarques](https://github.com/GabryelMarques) |
-| Laurinda Nhanga | 2020111950 | [@nhangamona](https://github.com/nhangamona) |
-| Vinicius Simon | 2024110898 | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
-
-### Repositórios
-
-🔗 [VibeEvents - GitHub](https://github.com/HerreraCris/VibeEvents) 
-|------|------|
-| Landing Page | [Aqui](#) |
-| Download do APK | [APK](#) |
-| Apresentação Técnica | [Apresentação](#) |
-| Vídeo de Demonstração | em breve |
-
----
-
-*Projeto desenvolvido como entrega final da disciplina Projeto de Sistemas — UFT, 2026/1.*
-
+</div>
