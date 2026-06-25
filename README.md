@@ -16,22 +16,20 @@
 
 | # | Seção |
 |---|-------|
-| 1️⃣ | [Sobre a Disciplina Projeto de Sistemas](#sobre-a-disciplina) |
-| 2️⃣ | [Prof. Edeilson Milhomem da Silva](#professor-responsavel) |
-| 3️⃣ | [Notícias e Reconhecimentos](#noticias) |
-| 4️⃣ | [Participação e Conquistas na Competição Supernova no Sebrae](#participacao-conquistas) |
-| 5️⃣ | [Startup-SE](#startup-se) |
-| 6️⃣ | [Projetos das startups](#projetos-startups) |
-| &nbsp;&nbsp;↳ | [Grupo 1 — OwnMyWay](#grupo-1---ownmyway) |
-| &nbsp;&nbsp;↳ | [Grupo 2 — TimerBook](#grupo-2---timerbook) |
-| &nbsp;&nbsp;↳ | [Grupo 3 — Lava-me](#grupo-3---lava-me) |
-| &nbsp;&nbsp;↳ | [Grupo 4 — Vibeevents](#grupo-4---vibeevents) |
-| &nbsp;&nbsp;↳ | [Grupo 5 — Superdott](#grupo-5---superdott) |
-| &nbsp;&nbsp;↳ | [Grupo 6 — Unicarona](#grupo-6---unicarona) |
+| 1️⃣ | [Sobre a Disciplina Projeto de Sistemas](#1--sobre-a-disciplina) |
+| 2️⃣ | [Prof. Edeilson Milhomem da Silva](#2--professor-responsável-edeilson-milhomem-da-silva) |
+| 3️⃣ | [Notícias e Reconhecimentos](#3--notícias-e-reconhecimentos) |
+| 4️⃣ | [Participação e Conquistas na Competição Supernova no Sebrae](#4--participação-e-conquistas-na-competição-supernova-sebrae) |
+| 5️⃣ | [Startup-SE](#5--startup-se) |
+| 6️⃣ | [Projetos das startups](#6--projetos-das-startups) |
+| &nbsp;&nbsp;↳ | [Grupo 1 — OwnMyWay](#61--startup-ownmyway) |
+| &nbsp;&nbsp;↳ | [Grupo 2 — TimerBook](#62--startup-timerbook) |
+| &nbsp;&nbsp;↳ | [Grupo 3 — Lava-me](#63--startup-lava-me) |
+| &nbsp;&nbsp;↳ | [Grupo 4 — Vibeevents](#64--startup-vibeevents) |
+| &nbsp;&nbsp;↳ | [Grupo 5 — Superdott](#65--startup-superdott) |
+| &nbsp;&nbsp;↳ | [Grupo 6 — Unicarona](#66--startup-unicarona) |
 
 ---
-
-<a id="sobre-a-disciplina"></a>
 
 ## 1. 📘 Sobre a Disciplina
 
@@ -41,21 +39,15 @@ A disciplina tem como proposta envolver os estudantes em um processo prático e 
 
 ---
 
-<a id="professor-responsavel"></a>
-
 ## 2. 👤 Professor Responsável: Edeilson Milhomem da Silva
 
 O prof. Edeilson Milhomem da Silva é doutor em Ciência da Computação e professor do Curso de Bacharelado em Ciência da Computação da UFT. Atua na promoção de iniciativas que aproximam academia e mercado, com foco em inovação, empreendedorismo tecnológico e engenharia de software. Em 2026, recebeu do SEBRAE o prêmio "Professor Empreendedor". É coautor do livro *Sistemas Colaborativos*, obra reconhecida nacionalmente na área e premiada com o 3º lugar no Prêmio Jabuti 2012, na categoria Tecnologia e Informática. Também é cofundador do Movimento Startup Tocantins, iniciativa voltada ao fortalecimento do ecossistema de inovação e empreendedorismo no estado do Tocantins. Coordena o Laboratório EPIC de Aprendizagem Colaborativa, espaço dedicado à inovação, metodologias ativas e desenvolvimento de competências empreendedoras. No EPIC, lidera projetos voltados à criação de soluções tecnológicas alinhadas às demandas reais da sociedade e do setor produtivo.
 
 ---
 
-<a id="noticias"></a>
-
 ## 3. 📰 Notícias e Reconhecimentos
 
 ---
-
-<a id="participacao-conquistas"></a>
 
 ## 4. 🎤 Participação e Conquistas na Competição Supernova Sebrae
 
@@ -71,8 +63,6 @@ Os projetos de startups desenvolvidos participaram da competição Sebrae Supern
 
 ---
 
-<a id="startup-se"></a>
-
 ## 5. 💡 Startup-SE
 
 Evento de encerramento em que os projetos são apresentados à banca avaliadora e ao público presente. O evento foi realizado em parceria com o SEBRAE Tocantins no auditório do SEBRAE Tocantins, na cidade de Palmas.
@@ -84,13 +74,9 @@ Evento de encerramento em que os projetos são apresentados à banca avaliadora 
 
 ---
 
-<a id="projetos-startups"></a>
-
-## 6. 🛠️ Projetos das Startups
+## 6. 🛠 Projetos das Startups
 
 ---
-
-<a id="grupo-1---ownmyway"></a>
 
 ### 6.1 🚀 StartUP OwnMyWay
 
@@ -143,8 +129,6 @@ O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
 | Vídeo de Demonstração | [Vídeo](https://www.youtube.com/watch?v=Flz4_X3lE1Q) |
 
 ---
-
-<a id="grupo-2---timerbook"></a>
 
 ### 6.2 🚀 StartUP TimerBook
 
@@ -215,7 +199,98 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 ---
 
-<a id="grupo-6---unicarona"></a>
+### 6.3 🚀 StartUP Lava-me
+
+<div align="center">
+
+<img src="#" alt="Lava-me" width="160" />
+
+</div>
+
+#### 📝 Descrição do Produto
+
+🔜 _Será adicionada em breve_
+
+#### 👥 Integrantes
+
+🔜 _Será adicionada em breve_
+
+#### 📦 Repositórios
+
+🔜 _Será adicionado em breve_
+
+#### 📑 Documentação Técnica
+
+🔜 _Será adicionada em breve_
+
+---
+
+### 6.4 🚀 StartUP VibeEvents
+
+<div align="center">
+
+<img src="#" alt="VibeEvents" width="160" />
+
+</div>
+
+#### 📝 Descrição do Produto
+
+O **VibeEvents** é uma plataforma de integração regional de eventos com foco em impacto social que:
+
+- 🗺️ Conecta empreendedores locais, estudantes e ONGs por meio de um mapa interativo
+- 📍 Facilita a descoberta e a integração de eventos regionais de Palmas e região
+- 🤝 Promove o ecossistema cultural e o engajamento comunitário com foco social
+- 📈 Fortalece a visibilidade de iniciativas e negócios de impacto local
+
+#### 👥 Integrantes
+
+| Nome | GitHub |
+|------|--------|
+| Cristian Herrera | [@HerreraCris](https://github.com/HerreraCris) |
+| Gabryel Marques | [@GabryelMarques](https://github.com/GabryelMarques) |
+| Laurinda Nhanga | [@nhangamona](https://github.com/nhangamona) |
+| Vinicius Simon | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
+
+#### 📦 Repositórios
+
+🔗 [Repositório](https://github.com/HerreraCris/VibeEvents)
+
+#### 📑 Documentação Técnica
+
+| Item | Link |
+|------|------|
+| Landing Page | [Aqui](#) |
+| Download do APK | [APK](#) |
+| Apresentação Técnica | [Apresentação](#) |
+| Vídeo de Demonstração | em breve |
+
+---
+
+### 6.5 🚀 StartUP Superdott
+
+<div align="center">
+
+<img src="#" alt="Superdott" width="160" />
+
+</div>
+
+#### 📝 Descrição do Produto
+
+🔜 _Será adicionada em breve_
+
+#### 👥 Integrantes
+
+🔜 _Será adicionada em breve_
+
+#### 📦 Repositórios
+
+🔜 _Será adicionado em breve_
+
+#### 📑 Documentação Técnica
+
+🔜 _Será adicionada em breve_
+
+---
 
 ### 6.6 🚀 StartUP Unicarona
 
@@ -262,8 +337,6 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 ---
 
-<a id="foto-da-turma"></a>
-
 ## 7. ⭐ Foto da Turma
 
 <div align="center">
@@ -271,11 +344,3 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 _[Inserir foto da turma]_
 
 </div>
-
-
-
-
-
-
-
-
