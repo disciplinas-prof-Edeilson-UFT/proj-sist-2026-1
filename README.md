@@ -182,7 +182,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 | Item | Link |
 |------|------|
-| Landing Page | [lucas-mcarvalho.github.io/TimerBook_PS](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
+| Landing Page | [Leading Page](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
 | Apresentação do Pitch(Slide) | [Ver apresentação](https://github.com/lucas-mcarvalho/TimerBook_PS/raw/main/docs/apresentacao_pitch.pdf)  |
 | Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Vídeo de Demonstração |  [Assistir à demo](https://youtu.be/IpGd2R0_AH8) |
