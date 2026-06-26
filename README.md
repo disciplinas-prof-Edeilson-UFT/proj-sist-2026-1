@@ -124,9 +124,11 @@ O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
 | Item | Link |
 |------|------|
 | Landing Page | [OwnMyWay.github.io](https://felixjp23.github.io/OwnMyWay/) |
-| Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
+| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](https://github.com/FelixJP23/OwnMyWay/blob/main/Apresentac%C3%A3o_tecnica.pdf) |
 | Vídeo de Demonstração | [Vídeo](https://www.youtube.com/watch?v=Flz4_X3lE1Q) |
+| Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
 
 ---
 
@@ -181,10 +183,10 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 | Item | Link |
 |------|------|
 | Landing Page | [lucas-mcarvalho.github.io/TimerBook_PS](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
-| Vídeo do Pitch (Desafio Supernova) | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Vídeo de Demonstração |  [Assistir à demo](https://youtu.be/IpGd2R0_AH8) |
 | Apresentação Técnica | [Ver apresentação](https://github.com/lucas-mcarvalho/TimerBook_PS/blob/main/docs/apresentacao_tecnica.pdf) |
-| Apresentação Comercial | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
 | Download do APK | 🔜 _Será adicionado em breve_ <!-- substituir por: [Baixar APK](COLE_O_LINK_AQUI) --> |
 
 #### 📸 Foto da Equipe (Startup-SE)
@@ -260,9 +262,11 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 | Item | Link |
 |------|------|
 | Landing Page | 🔜 _Será adicionada em breve_ |
-| Download do APK | 🔜 _Será adicionada em breve_ |
+| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | 🔜 _Será adicionada em breve_ |
 | Vídeo de Demonstração | 🔜 _Será adicionada em breve_ |
+| Download do APK | 🔜 _Será adicionada em breve_ |
 
 ---
 
@@ -282,11 +286,11 @@ O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e i
 
 | Nome | GitHub |
 |------|--------|
-| Rhyan Nascimento | [@drgeralt](https://github.com/drgeralt) |
-| Vitória Milhomem | [@vitoriamilhomem](https://github.com/vitoriamilhomem) |
+| Rhyan Nascimento de Souza | [@drgeralt](https://github.com/drgeralt) |
+| Vitória Milhomem Soares | [@vitoriamilhomem](https://github.com/vitoriamilhomem) |
 | Rick Ribeiro | [@rickribeiroo](https://github.com/rickribeiroo) |
-| Vitoria Leal | [@coisacruel](https://github.com/vitorialeal06) |
-| Matheus Sousa | [@math3us-sousa](https://github.com/math3us-sousa) |
+| Vitoria Ferreira Leal dos Santos | [@coisacruel](https://github.com/vitorialeal06) |
+| Matheus de Sousa Silva | [@math3us-sousa](https://github.com/math3us-sousa) |
 
 #### 📦 Repositórios
 
@@ -297,9 +301,11 @@ O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e i
 | Item | Link |
 |------|------|
 | Landing Page | [superdott.onrender.com](https://superdott.onrender.com/) |
+| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](https://canva.link/vwlx330uhfc4nk7) |
-| Vídeo do Pitch (Desafio Supernova) | 🔜 _Será adicionado em breve_ |
 | Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
+| Download do APK | 🔜 _Será adicionado em breve_ <!-- substituir por: [Baixar APK](COLE_O_LINK_AQUI) --> |
 
 ---
 
@@ -341,10 +347,12 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 | Item | Link |
 |------|------|
 | Landing Page | [unicarona.caykedev.com](https://unicarona.caykedev.com/) |
-| Download do APK | [APK](https://unicarona.caykedev.com/#download) |
+| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](./Unicarona//Apresentação%20Técnica.pptx) |
 | Documentação Swagger | `http://[host]:3000/api-docs` |
 | Vídeo de Demonstração | em breve |
+| Download do APK | [APK](https://unicarona.caykedev.com/#download) |
 
 ---
 
