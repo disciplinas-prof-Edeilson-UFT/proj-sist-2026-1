@@ -89,13 +89,39 @@ Os projetos de startups desenvolvidos participaram da competição Sebrae Supern
 
 Evento de encerramento em que os projetos são apresentados à banca avaliadora e ao público presente. O evento foi realizado em parceria com o SEBRAE Tocantins no auditório do SEBRAE Tocantins, na cidade de Palmas.
 
-> _[Publicar:_
-> - _banner de divulgação do evento_
-> - _logo do evento_
-> - _fotografias do evento]_
+### 🖼️ Banner de Divulgação
+
+<div align="center">
+
+<img src="noticias/startupse-2026-1.png" alt="Banner de divulgação do StartupSE 2026/1" width="400" />
+
+</div>
+
+### 🏷️ Logo do Evento
+
+<div align="center">
+
+🔜 _Será adicionada em breve_
+
+<!-- substituir por: <img src="COLE_O_CAMINHO_DA_LOGO_AQUI" alt="Logo do StartupSE 2026/1" width="240" /> -->
+
+</div>
+
+### 📸 Fotografias do Evento
+
+<div align="center">
+
+🔜 _Serão adicionadas em breve_
+
+<!-- substituir por (exemplo de galeria lado a lado):
+<img src="COLE_O_CAMINHO_DA_FOTO_1" alt="StartupSE 2026/1 — foto 1" width="32%" />
+<img src="COLE_O_CAMINHO_DA_FOTO_2" alt="StartupSE 2026/1 — foto 2" width="32%" />
+<img src="COLE_O_CAMINHO_DA_FOTO_3" alt="StartupSE 2026/1 — foto 3" width="32%" />
+-->
+
+</div>
 
 ---
-
 ## 6. 🛠 Projetos das Startups
 
 ---
