@@ -165,12 +165,12 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 | Nome | GitHub |
 |------|--------|
-| Lucas Monteiro | [@lucas-mcarvalho](https://github.com/lucas-mcarvalho) |
-| Tiago Barbosa | [@TiagoBrs](https://github.com/TiagoBrs) |
-| Matheus Pontes | [@matheuspontes01](https://github.com/matheuspontes01) |
-| Bruno | [@Bruno-uft](https://github.com/Bruno-uft) |
-| Vitor Kawan | [@KawanVitor1](https://github.com/KawanVitor1) |
-| Kayke Zago | [@kayke002](https://github.com/kayke002) |
+| Lucas Monteiro de Carvalho | [@lucas-mcarvalho](https://github.com/lucas-mcarvalho) |
+| Tiago Barbosa de Castro Souza | [@TiagoBrs](https://github.com/TiagoBrs) |
+| Matheus Silva Pontes | [@matheuspontes01](https://github.com/matheuspontes01) |
+| Bruno Henrique Frota Sobral | [@Bruno-uft](https://github.com/Bruno-uft) |
+| Vitor Kawan Barbosa Borges | [@KawanVitor1](https://github.com/KawanVitor1) |
+| Kayke Zago Pinheiro | [@kayke002](https://github.com/kayke002) |
 
 #### 📦 Repositórios
 
@@ -246,10 +246,10 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 | Nome | GitHub |
 |------|--------|
-| Cristian Herrera | [@HerreraCris](https://github.com/HerreraCris) |
-| Gabryel Marques | [@GabryelMarques](https://github.com/GabryelMarques) |
-| Laurinda Nhanga | [@nhangamona](https://github.com/nhangamona) |
-| Vinicius Simon | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
+| Cristian Herrera Alves | [@HerreraCris](https://github.com/HerreraCris) |
+| Gabryel Soares Marques | [@GabryelMarques](https://github.com/GabryelMarques) |
+| Laurinda Nhanga Mona | [@nhangamona](https://github.com/nhangamona) |
+| Vinicius Fernandes Simon | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
 
 #### 📦 Repositórios
 
@@ -314,7 +314,7 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 | Nome | GitHub |
 |------|--------|
-| Cayke Veras | [@cayke1](https://github.com/cayke1) |
+| Cayke Daniel Pereira Veras | [@cayke1](https://github.com/cayke1) |
 | Filipe Silva Coelho | [@Purazika](https://github.com/Purazika) |
 | João Pedro Oliveira Barbosa | [@Iohanan-Cephas](https://github.com/Iohanan-Cephas) |
 | Gabryel Dellanne Santiago Araújo | [@dellannegabryel-commits](https://github.com/dellannegabryel-commits) |
