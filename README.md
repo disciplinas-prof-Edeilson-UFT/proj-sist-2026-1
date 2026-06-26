@@ -47,6 +47,28 @@ O prof. Edeilson Milhomem da Silva é doutor em Ciência da Computação e profe
 
 ## 3. 📰 Notícias e Reconhecimentos
 
+<table width="100%">
+<tr>
+<td width="320" align="center" valign="middle">
+
+<a href="https://www.instagram.com/p/DaD06Dzic3z/">
+<img src="noticias/startupse-2026-1.png" alt="Convite StartupSE 2026/1" width="300" />
+</a>
+
+</td>
+<td valign="middle">
+
+### 📣 Convite — StartupSE 2026/1
+
+`📅 2026` · `📷 Instagram`
+
+O Câmpus UFT Palmas publicou nas redes sociais o convite de participação para o **StartupSE 2026/1**.
+
+[![Ver no Instagram](https://img.shields.io/badge/Ver_no_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DaD06Dzic3z/)
+
+</td>
+</tr>
+</table>
 ---
 
 ## 4. 🎤 Participação e Conquistas na Competição Supernova Sebrae
