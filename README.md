@@ -123,7 +123,7 @@ O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
 
 | Item | Link |
 |------|------|
-| Landing Page | [OwnMyWay.github.io](https://felixjp23.github.io/OwnMyWay/) |
+| Landing Page | [Acesse aqui](https://felixjp23.github.io/OwnMyWay/) |
 | Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
 | Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](https://github.com/FelixJP23/OwnMyWay/blob/main/Apresentac%C3%A3o_tecnica.pdf) |
@@ -182,7 +182,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 | Item | Link |
 |------|------|
-| Landing Page | [Leading Page](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
+| Landing Page | [Acesse aqui](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
 | Apresentação do Pitch(Slide) | [Ver apresentação](https://github.com/lucas-mcarvalho/TimerBook_PS/raw/main/docs/apresentacao_pitch.pdf)  |
 | Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Vídeo de Demonstração |  [Assistir à demo](https://youtu.be/IpGd2R0_AH8) |
@@ -300,7 +300,7 @@ O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e i
 
 | Item | Link |
 |------|------|
-| Landing Page | [superdott.onrender.com](https://superdott.onrender.com/) |
+| Landing Page | [Acesse aqui](https://superdott.onrender.com/) |
 | Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
 | Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](https://canva.link/vwlx330uhfc4nk7) |
@@ -346,7 +346,7 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 | Item | Link |
 |------|------|
-| Landing Page | [unicarona.caykedev.com](https://unicarona.caykedev.com/) |
+| Landing Page | [Acesse aqui](https://unicarona.caykedev.com/) |
 | Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
 | Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](./Unicarona//Apresentação%20Técnica.pptx) |
