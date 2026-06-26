@@ -276,19 +276,30 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 #### 📝 Descrição do Produto
 
-🔜 _Será adicionada em breve_
+O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e inteligência pedagógica, projetada exclusivamente para identificar, gerir e desenvolver alunos com Altas Habilidades ou Superdotação (AH/SD).
 
 #### 👥 Integrantes
 
-🔜 _Será adicionada em breve_
+| Nome | GitHub |
+|------|--------|
+| Rhyan Nascimento | [@drgeralt](https://github.com/drgeralt) |
+| Vitória Milhomem | [@vitoriamilhomem](https://github.com/vitoriamilhomem) |
+| Rick Ribeiro | [@rickribeiroo](https://github.com/rickribeiroo) |
+| Vitoria Leal | [@coisacruel](https://github.com/vitorialeal06) |
+| Matheus Sousa | [@math3us-sousa](https://github.com/math3us-sousa) |
 
 #### 📦 Repositórios
 
-🔜 _Será adicionado em breve_
+🔗 [Repositório](https://github.com/drgeralt/Superdott)
 
 #### 📑 Documentação Técnica
 
-🔜 _Será adicionada em breve_
+| Item | Link |
+|------|------|
+| Landing Page | [superdott.onrender.com](https://superdott.onrender.com/) |
+| Apresentação Técnica | [Apresentação](https://canva.link/vwlx330uhfc4nk7) |
+| Vídeo do Pitch (Desafio Supernova) | 🔜 _Será adicionado em breve_ |
+| Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
 
 ---
 
