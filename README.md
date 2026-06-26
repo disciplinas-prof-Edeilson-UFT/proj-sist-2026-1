@@ -93,7 +93,7 @@ Evento de encerramento em que os projetos são apresentados à banca avaliadora 
 
 <div align="center">
 
-<img src="noticias/startupse-2026-1.png" alt="Banner de divulgação do StartupSE 2026/1" width="400" />
+<img src="noticias/startupse-2026-1.png" alt="Banner de divulgação do StartupSE 2026/1" width="600" />
 
 </div>
 
