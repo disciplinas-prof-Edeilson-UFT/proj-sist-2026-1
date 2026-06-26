@@ -165,12 +165,12 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 | Nome | GitHub |
 |------|--------|
-| Lucas Monteiro | [@lucas-mcarvalho](https://github.com/lucas-mcarvalho) |
-| Tiago Barbosa | [@TiagoBrs](https://github.com/TiagoBrs) |
-| Matheus Pontes | [@matheuspontes01](https://github.com/matheuspontes01) |
-| Bruno | [@Bruno-uft](https://github.com/Bruno-uft) |
-| Vitor Kawan | [@KawanVitor1](https://github.com/KawanVitor1) |
-| Kayke Zago | [@kayke002](https://github.com/kayke002) |
+| Lucas Monteiro de Carvalho | [@lucas-mcarvalho](https://github.com/lucas-mcarvalho) |
+| Tiago Barbosa de Castro Souza | [@TiagoBrs](https://github.com/TiagoBrs) |
+| Matheus Silva Pontes | [@matheuspontes01](https://github.com/matheuspontes01) |
+| Bruno Henrique Frota Sobral | [@Bruno-uft](https://github.com/Bruno-uft) |
+| Vitor Kawan Barbosa Borges | [@KawanVitor1](https://github.com/KawanVitor1) |
+| Kayke Zago Pinheiro | [@kayke002](https://github.com/kayke002) |
 
 #### 📦 Repositórios
 
@@ -246,10 +246,10 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 | Nome | GitHub |
 |------|--------|
-| Cristian Herrera | [@HerreraCris](https://github.com/HerreraCris) |
-| Gabryel Marques | [@GabryelMarques](https://github.com/GabryelMarques) |
-| Laurinda Nhanga | [@nhangamona](https://github.com/nhangamona) |
-| Vinicius Simon | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
+| Cristian Herrera Alves | [@HerreraCris](https://github.com/HerreraCris) |
+| Gabryel Soares Marques | [@GabryelMarques](https://github.com/GabryelMarques) |
+| Laurinda Nhanga Mona | [@nhangamona](https://github.com/nhangamona) |
+| Vinicius Fernandes Simon | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
 
 #### 📦 Repositórios
 
@@ -270,17 +270,18 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 <div align="center">
 
-<img src="https://github.com/drgeralt/Superdott/blob/main/frontend/src/assets/img/logo.png" alt="Superdott" width="160" />
+<img src="#" alt="Superdott" width="160" />
 
 </div>
 
 #### 📝 Descrição do Produto
 
-O Superdott é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e inteligência pedagógica, projetada exclusivamente para identificar, gerir e desenvolver alunos com Altas Habilidades ou Superdotação (AH/SD).
+O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e inteligência pedagógica, projetada exclusivamente para identificar, gerir e desenvolver alunos com Altas Habilidades ou Superdotação (AH/SD).
 
 #### 👥 Integrantes
-| Nome | Github |
-| ------------------------- | ------------------------------------------ |
+
+| Nome | GitHub |
+|------|--------|
 | Rhyan Nascimento | [@drgeralt](https://github.com/drgeralt) |
 | Vitória Milhomem | [@vitoriamilhomem](https://github.com/vitoriamilhomem) |
 | Rick Ribeiro | [@rickribeiroo](https://github.com/rickribeiroo) |
@@ -289,16 +290,16 @@ O Superdott é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e intel
 
 #### 📦 Repositórios
 
-[Link](https://github.com/drgeralt/Superdott)
+🔗 [Repositório](https://github.com/drgeralt/Superdott)
 
 #### 📑 Documentação Técnica
 
 | Item | Link |
 |------|------|
-| Landing Page | [https://superdott.onrender.com/](https://superdott.onrender.com/)) |
+| Landing Page | [superdott.onrender.com](https://superdott.onrender.com/) |
 | Apresentação Técnica | [Apresentação](https://canva.link/vwlx330uhfc4nk7) |
 | Vídeo do Pitch (Desafio Supernova) | 🔜 _Será adicionado em breve_ |
-| Vídeo de Demonstração |  🔜 _Será adicionado em breve_ |
+| Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
 
 ---
 
@@ -324,7 +325,7 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 | Nome | GitHub |
 |------|--------|
-| Cayke Veras | [@cayke1](https://github.com/cayke1) |
+| Cayke Daniel Pereira Veras | [@cayke1](https://github.com/cayke1) |
 | Filipe Silva Coelho | [@Purazika](https://github.com/Purazika) |
 | João Pedro Oliveira Barbosa | [@Iohanan-Cephas](https://github.com/Iohanan-Cephas) |
 | Gabryel Dellanne Santiago Araújo | [@dellannegabryel-commits](https://github.com/dellannegabryel-commits) |
