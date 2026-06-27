@@ -69,7 +69,29 @@ O Câmpus UFT Palmas publicou nas redes sociais o convite de participação para
 </td>
 </tr>
 </table>
----
+
+<table width="100%">
+<tr>
+<td width="320" align="center" valign="middle">
+
+<a href="https://www.instagram.com/reel/DaGcBj5RIKr/">
+<img src="noticias/reel-startupse-2026-1.png" alt="Reel de divulgação do StartupSE 2026/1" width="300" />
+</a>
+
+</td>
+<td valign="middle">
+
+### 🎬 Reel de Divulgação — StartupSE 2026/1
+
+`📅 2026` · `🎥 Instagram Reels`
+
+Reel produzido pelos alunos para divulgar o evento, apresentando um resumo de tudo o que o **StartupSE 2026/1** terá.
+
+[![Assistir ao Reel](https://img.shields.io/badge/Assistir_ao_Reel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DaGcBj5RIKr/)
+
+</td>
+</tr>
+</table>
 
 ## 4. 🎤 Participação e Conquistas na Competição Supernova Sebrae
 
