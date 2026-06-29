@@ -374,8 +374,9 @@ O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e i
 | Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
 | Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](https://canva.link/vwlx330uhfc4nk7) |
-| Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
-| Download do APK | 🔜 _Será adicionado em breve_ <!-- substituir por: [Baixar APK](COLE_O_LINK_AQUI) --> |
+| Apresentação do Pitch | [Apresentação](https://canva.link/ama8dgr1yqrnzxt) |
+| Vídeo do Pitch (Desafio Supernova) | 🔜 _Será adicionado em breve_ |
+| Vídeo de Demonstração |  🔜 _Será adicionado em breve_ |
 
 ---
 
