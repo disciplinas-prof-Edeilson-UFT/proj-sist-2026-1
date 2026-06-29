@@ -47,7 +47,51 @@ O prof. Edeilson Milhomem da Silva é doutor em Ciência da Computação e profe
 
 ## 3. 📰 Notícias e Reconhecimentos
 
----
+<table width="100%">
+<tr>
+<td width="320" align="center" valign="middle">
+
+<a href="https://www.instagram.com/p/DaD06Dzic3z/">
+<img src="noticias/startupse-2026-1.png" alt="Convite StartupSE 2026/1" width="300" />
+</a>
+
+</td>
+<td valign="middle">
+
+### 📣 Convite — StartupSE 2026/1
+
+`📅 2026` · `📷 Instagram`
+
+O Câmpus UFT Palmas publicou nas redes sociais o convite de participação para o **StartupSE 2026/1**.
+
+[![Ver no Instagram](https://img.shields.io/badge/Ver_no_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DaD06Dzic3z/)
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="320" align="center" valign="middle">
+
+<a href="https://www.instagram.com/reel/DaGcBj5RIKr/">
+<img src="noticias/reel-startupse-2026-1.png" alt="Reel de divulgação do StartupSE 2026/1" width="300" />
+</a>
+
+</td>
+<td valign="middle">
+
+### 🎬 Reel de Divulgação — StartupSE 2026/1
+
+`📅 2026` · `🎥 Instagram Reels`
+
+Reel produzido pelos alunos para divulgar o evento, apresentando um resumo de tudo o que o **StartupSE 2026/1** terá.
+
+[![Assistir ao Reel](https://img.shields.io/badge/Assistir_ao_Reel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DaGcBj5RIKr/)
+
+</td>
+</tr>
+</table>
 
 ## 4. 🎤 Participação e Conquistas na Competição Supernova Sebrae
 
@@ -67,13 +111,39 @@ Os projetos de startups desenvolvidos participaram da competição Sebrae Supern
 
 Evento de encerramento em que os projetos são apresentados à banca avaliadora e ao público presente. O evento foi realizado em parceria com o SEBRAE Tocantins no auditório do SEBRAE Tocantins, na cidade de Palmas.
 
-> _[Publicar:_
-> - _banner de divulgação do evento_
-> - _logo do evento_
-> - _fotografias do evento]_
+### 🖼️ Banner de Divulgação
+
+<div align="center">
+
+<img src="noticias/startupse-2026-1.png" alt="Banner de divulgação do StartupSE 2026/1" width="600" />
+
+</div>
+
+### 🏷️ Logo do Evento
+
+<div align="center">
+
+🔜 _Será adicionada em breve_
+
+<!-- substituir por: <img src="COLE_O_CAMINHO_DA_LOGO_AQUI" alt="Logo do StartupSE 2026/1" width="240" /> -->
+
+</div>
+
+### 📸 Fotografias do Evento
+
+<div align="center">
+
+🔜 _Serão adicionadas em breve_
+
+<!-- substituir por (exemplo de galeria lado a lado):
+<img src="COLE_O_CAMINHO_DA_FOTO_1" alt="StartupSE 2026/1 — foto 1" width="32%" />
+<img src="COLE_O_CAMINHO_DA_FOTO_2" alt="StartupSE 2026/1 — foto 2" width="32%" />
+<img src="COLE_O_CAMINHO_DA_FOTO_3" alt="StartupSE 2026/1 — foto 3" width="32%" />
+-->
+
+</div>
 
 ---
-
 ## 6. 🛠 Projetos das Startups
 
 ---
@@ -123,10 +193,12 @@ O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
 
 | Item | Link |
 |------|------|
-| Landing Page | [OwnMyWay.github.io](https://felixjp23.github.io/OwnMyWay/) |
-| Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
+| Landing Page | [Acesse aqui](https://felixjp23.github.io/OwnMyWay/) |
+| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](https://github.com/FelixJP23/OwnMyWay/blob/main/Apresentac%C3%A3o_tecnica.pdf) |
 | Vídeo de Demonstração | [Vídeo](https://www.youtube.com/watch?v=Flz4_X3lE1Q) |
+| Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
 
 ---
 
@@ -165,12 +237,12 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 | Nome | GitHub |
 |------|--------|
-| Lucas Monteiro | [@lucas-mcarvalho](https://github.com/lucas-mcarvalho) |
-| Tiago Barbosa | [@TiagoBrs](https://github.com/TiagoBrs) |
-| Matheus Pontes | [@matheuspontes01](https://github.com/matheuspontes01) |
-| Bruno | [@Bruno-uft](https://github.com/Bruno-uft) |
-| Vitor Kawan | [@KawanVitor1](https://github.com/KawanVitor1) |
-| Kayke Zago | [@kayke002](https://github.com/kayke002) |
+| Lucas Monteiro de Carvalho | [@lucas-mcarvalho](https://github.com/lucas-mcarvalho) |
+| Tiago Barbosa de Castro Souza | [@TiagoBrs](https://github.com/TiagoBrs) |
+| Matheus Silva Pontes | [@matheuspontes01](https://github.com/matheuspontes01) |
+| Bruno Henrique Frota Sobral | [@Bruno-uft](https://github.com/Bruno-uft) |
+| Vitor Kawan Barbosa Borges | [@KawanVitor1](https://github.com/KawanVitor1) |
+| Kayke Zago Pinheiro | [@kayke002](https://github.com/kayke002) |
 
 #### 📦 Repositórios
 
@@ -180,12 +252,12 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 | Item | Link |
 |------|------|
-| Landing Page | [lucas-mcarvalho.github.io/TimerBook_PS](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
-| Vídeo do Pitch (Desafio Supernova) | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Landing Page | [Acesse aqui](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
+| Apresentação do Pitch(Slide) | [Ver apresentação](https://github.com/lucas-mcarvalho/TimerBook_PS/raw/main/docs/apresentacao_pitch.pdf)  |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Vídeo de Demonstração |  [Assistir à demo](https://youtu.be/IpGd2R0_AH8) |
-| Apresentação Técnica | [Ver apresentação](https://github.com/lucas-mcarvalho/TimerBook_PS/blob/main/docs/apresentacao_tecnica.pdf) |
-| Apresentação Comercial | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
-| Download do APK | 🔜 _Será adicionado em breve_ <!-- substituir por: [Baixar APK](COLE_O_LINK_AQUI) --> |
+| Apresentação Técnica | [Ver apresentação](https://raw.githubusercontent.com/lucas-mcarvalho/TimerBook_PS/main/docs/apresentacao_tecnica.pdf) |
+| Download do APK |  [Baixar APK](https://raw.githubusercontent.com/lucas-mcarvalho/TimerBookMobile/main/timerbook.apk) |
 
 #### 📸 Foto da Equipe (Startup-SE)
 
@@ -246,10 +318,10 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 | Nome | GitHub |
 |------|--------|
-| Cristian Herrera | [@HerreraCris](https://github.com/HerreraCris) |
-| Gabryel Marques | [@GabryelMarques](https://github.com/GabryelMarques) |
-| Laurinda Nhanga | [@nhangamona](https://github.com/nhangamona) |
-| Vinicius Simon | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
+| Cristian Herrera Alves | [@HerreraCris](https://github.com/HerreraCris) |
+| Gabryel Soares Marques | [@GabryelMarques](https://github.com/GabryelMarques) |
+| Laurinda Nhanga Mona | [@nhangamona](https://github.com/nhangamona) |
+| Vinicius Fernandes Simon | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
 
 #### 📦 Repositórios
 
@@ -260,9 +332,11 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 | Item | Link |
 |------|------|
 | Landing Page | 🔜 _Será adicionada em breve_ |
-| Download do APK | 🔜 _Será adicionada em breve_ |
+| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | 🔜 _Será adicionada em breve_ |
 | Vídeo de Demonstração | 🔜 _Será adicionada em breve_ |
+| Download do APK | 🔜 _Será adicionada em breve_ |
 
 ---
 
@@ -270,32 +344,35 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 <div align="center">
 
-<img src="https://github.com/drgeralt/Superdott/blob/main/frontend/src/assets/img/logo.png" alt="Superdott" width="160" />
+<img src="#" alt="Superdott" width="160" />
 
 </div>
 
 #### 📝 Descrição do Produto
 
-O Superdott é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e inteligência pedagógica, projetada exclusivamente para identificar, gerir e desenvolver alunos com Altas Habilidades ou Superdotação (AH/SD).
+O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e inteligência pedagógica, projetada exclusivamente para identificar, gerir e desenvolver alunos com Altas Habilidades ou Superdotação (AH/SD).
 
 #### 👥 Integrantes
-| Nome | Github |
-| ------------------------- | ------------------------------------------ |
-| Rhyan Nascimento | [@drgeralt](https://github.com/drgeralt) |
-| Vitória Milhomem | [@vitoriamilhomem](https://github.com/vitoriamilhomem) |
+
+| Nome | GitHub |
+|------|--------|
+| Rhyan Nascimento de Souza | [@drgeralt](https://github.com/drgeralt) |
+| Vitória Milhomem Soares | [@vitoriamilhomem](https://github.com/vitoriamilhomem) |
 | Rick Ribeiro | [@rickribeiroo](https://github.com/rickribeiroo) |
-| Vitoria Leal | [@coisacruel](https://github.com/vitorialeal06) |
-| Matheus Sousa | [@math3us-sousa](https://github.com/math3us-sousa) |
+| Vitoria Ferreira Leal dos Santos | [@coisacruel](https://github.com/vitorialeal06) |
+| Matheus de Sousa Silva | [@math3us-sousa](https://github.com/math3us-sousa) |
 
 #### 📦 Repositórios
 
-[Link](https://github.com/drgeralt/Superdott)
+🔗 [Repositório](https://github.com/drgeralt/Superdott)
 
 #### 📑 Documentação Técnica
 
 | Item | Link |
 |------|------|
-| Landing Page | [https://superdott.onrender.com/](https://superdott.onrender.com/)) |
+| Landing Page | [Acesse aqui](https://superdott.onrender.com/) |
+| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](https://canva.link/vwlx330uhfc4nk7) |
 | Apresentação do Pitch | [Apresentação](https://canva.link/ama8dgr1yqrnzxt) |
 | Vídeo do Pitch (Desafio Supernova) | 🔜 _Será adicionado em breve_ |
@@ -325,7 +402,7 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 | Nome | GitHub |
 |------|--------|
-| Cayke Veras | [@cayke1](https://github.com/cayke1) |
+| Cayke Daniel Pereira Veras | [@cayke1](https://github.com/cayke1) |
 | Filipe Silva Coelho | [@Purazika](https://github.com/Purazika) |
 | João Pedro Oliveira Barbosa | [@Iohanan-Cephas](https://github.com/Iohanan-Cephas) |
 | Gabryel Dellanne Santiago Araújo | [@dellannegabryel-commits](https://github.com/dellannegabryel-commits) |
@@ -340,11 +417,13 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 | Item | Link |
 |------|------|
-| Landing Page | [unicarona.caykedev.com](https://unicarona.caykedev.com/) |
-| Download do APK | [APK](https://unicarona.caykedev.com/#download) |
+| Landing Page | [Acesse aqui](https://unicarona.caykedev.com/) |
+| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](./Unicarona//Apresentação%20Técnica.pptx) |
 | Documentação Swagger | `http://[host]:3000/api-docs` |
 | Vídeo de Demonstração | em breve |
+| Download do APK | [APK](https://unicarona.caykedev.com/#download) |
 
 ---
 
