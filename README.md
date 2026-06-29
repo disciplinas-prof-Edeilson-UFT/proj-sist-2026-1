@@ -331,12 +331,12 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 | Item | Link |
 |------|------|
-| Landing Page | 🔜 _Será adicionada em breve_ |
+| Landing Page | [Repositório](https://herreracris.github.io/VibeEvents/)|
 | Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
 | Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
-| Apresentação Técnica | 🔜 _Será adicionada em breve_ |
-| Vídeo de Demonstração | 🔜 _Será adicionada em breve_ |
-| Download do APK | 🔜 _Será adicionada em breve_ |
+| Apresentação Técnica | [Aqui](https://github.com/HerreraCris/VibeEvents/blob/develop/static/Apresenta%C3%A7%C3%A3o%20T%C3%A9cnica) |
+| Vídeo de Demonstração | [Aqui](https://github.com/HerreraCris/VibeEvents/blob/develop/static/V%C3%ADdeo%20demonstra%C3%A7%C3%A3o) |
+| Download do APK | [Link](https://github.com/HerreraCris/VibeEvents/blob/develop/app-release-signed.apk) |
 
 ---
 
