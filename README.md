@@ -297,6 +297,7 @@ O Superdott é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e intel
 |------|------|
 | Landing Page | [https://superdott.onrender.com/](https://superdott.onrender.com/)) |
 | Apresentação Técnica | [Apresentação](https://canva.link/vwlx330uhfc4nk7) |
+| Apresentação do Pitch | [Apresentação](https://canva.link/ama8dgr1yqrnzxt) |
 | Vídeo do Pitch (Desafio Supernova) | 🔜 _Será adicionado em breve_ |
 | Vídeo de Demonstração |  🔜 _Será adicionado em breve_ |
 
