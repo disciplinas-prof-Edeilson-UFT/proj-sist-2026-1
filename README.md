@@ -301,7 +301,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 <div align="center">
 
-<img src="#" alt="VibeEvents" width="160" />
+<img src="https://github.com/HerreraCris/VibeEvents/blob/main/static/img/vibeevents-icon.png" alt="VibeEvents" width="160" />
 
 </div>
 
