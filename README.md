@@ -120,8 +120,9 @@ A atividade reforça a parceria entre o **SEBRAE Tocantins** e a **UFT** no apoi
 
 🔜 _Serão adicionadas em breve_
 
+
+<img src="images/alunos_treinamento_pitch.jpeg" alt="Treinamento de pitch no SEBRAE — foto 1" width="64%" />
 <!-- substituir por (galeria de três fotos lado a lado):
-<img src="noticias/sebrae-pitch-1.png" alt="Treinamento de pitch no SEBRAE — foto 1" width="32%" />
 <img src="noticias/sebrae-pitch-2.png" alt="Treinamento de pitch no SEBRAE — foto 2" width="32%" />
 <img src="noticias/sebrae-pitch-3.png" alt="Treinamento de pitch no SEBRAE — foto 3" width="32%" />
 -->
