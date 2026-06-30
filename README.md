@@ -20,14 +20,15 @@
 | 2️⃣ | [Prof. Edeilson Milhomem da Silva](#2--professor-responsável-edeilson-milhomem-da-silva) |
 | 3️⃣ | [Notícias e Reconhecimentos](#3--notícias-e-reconhecimentos) |
 | 4️⃣ | [Participação e Conquistas na Competição Supernova no Sebrae](#4--participação-e-conquistas-na-competição-supernova-sebrae) |
-| 5️⃣ | [Startup-SE](#5--startup-se) |
-| 6️⃣ | [Projetos das startups](#6--projetos-das-startups) |
-| &nbsp;&nbsp;↳ | [Grupo 1 — OwnMyWay](#61--startup-ownmyway) |
-| &nbsp;&nbsp;↳ | [Grupo 2 — TimerBook](#62--startup-timerbook) |
-| &nbsp;&nbsp;↳ | [Grupo 3 — Lava-me](#63--startup-lava-me) |
-| &nbsp;&nbsp;↳ | [Grupo 4 — Vibeevents](#64--startup-vibeevents) |
-| &nbsp;&nbsp;↳ | [Grupo 5 — Superdott](#65--startup-superdott) |
-| &nbsp;&nbsp;↳ | [Grupo 6 — Unicarona](#66--startup-unicarona) |
+| 5️⃣ | [Treinamento de Pitch com Feedback do SEBRAE](#5--treinamento-de-pitch-com-feedback-do-sebrae) |
+| 6️⃣ | [Startup-SE](#6--startup-se) |
+| 7️⃣ | [Projetos das startups](#7--projetos-das-startups) |
+| &nbsp;&nbsp;↳ | [Grupo 1 — OwnMyWay](#71--startup-ownmyway) |
+| &nbsp;&nbsp;↳ | [Grupo 2 — TimerBook](#72--startup-timerbook) |
+| &nbsp;&nbsp;↳ | [Grupo 3 — Lava-me](#73--startup-lava-me) |
+| &nbsp;&nbsp;↳ | [Grupo 4 — Vibeevents](#74--startup-vibeevents) |
+| &nbsp;&nbsp;↳ | [Grupo 5 — Superdott](#75--startup-superdott) |
+| &nbsp;&nbsp;↳ | [Grupo 6 — Unicarona](#76--startup-unicarona) |
 
 ---
 
@@ -107,7 +108,29 @@ Os projetos de startups desenvolvidos participaram da competição Sebrae Supern
 
 ---
 
-## 5. 💡 Startup-SE
+## 5. 🎯 Treinamento de Pitch com Feedback do SEBRAE
+
+Como parte das atividades da disciplina, todos os grupos estiveram presencialmente no **SEBRAE Tocantins** para apresentar o pitch de seus negócios a uma banca avaliadora. Na ocasião, cada equipe expôs sua proposta de solução e recebeu feedback dos avaliadores, que apontaram pontos fortes e oportunidades de melhoria em cada projeto — um treinamento prático que preparou as equipes para a apresentação final no Startup-SE.
+
+A atividade reforça a parceria entre o **SEBRAE Tocantins** e a **UFT** no apoio ao empreendedorismo acadêmico: ao abrir suas instalações e disponibilizar uma banca para avaliar os trabalhos, o SEBRAE contribuiu diretamente para o amadurecimento das ideias e para o desenvolvimento das competências de apresentação das equipes.
+
+### 📸 Registros
+
+<div align="center">
+
+🔜 _Serão adicionadas em breve_
+
+<!-- substituir por (galeria de três fotos lado a lado):
+<img src="noticias/sebrae-pitch-1.png" alt="Treinamento de pitch no SEBRAE — foto 1" width="32%" />
+<img src="noticias/sebrae-pitch-2.png" alt="Treinamento de pitch no SEBRAE — foto 2" width="32%" />
+<img src="noticias/sebrae-pitch-3.png" alt="Treinamento de pitch no SEBRAE — foto 3" width="32%" />
+-->
+
+</div>
+
+---
+
+## 6. 💡 Startup-SE
 
 Evento de encerramento em que os projetos são apresentados à banca avaliadora e ao público presente. O evento foi realizado em parceria com o SEBRAE Tocantins no auditório do SEBRAE Tocantins, na cidade de Palmas.
 
@@ -144,11 +167,11 @@ Evento de encerramento em que os projetos são apresentados à banca avaliadora 
 </div>
 
 ---
-## 6. 🛠 Projetos das Startups
+## 7. 🛠 Projetos das Startups
 
 ---
 
-### 6.1 🚀 StartUP OwnMyWay
+### 7.1 🚀 StartUP OwnMyWay
 
 <div align="center">
 
@@ -202,7 +225,7 @@ O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
 
 ---
 
-### 6.2 🚀 StartUP TimerBook
+### 7.2 🚀 StartUP TimerBook
 
 <div align="center">
 
@@ -271,7 +294,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 ---
 
-### 6.3 🚀 StartUP Lava-me
+### 7.3 🚀 StartUP Lava-me
 
 <div align="center">
 
@@ -297,7 +320,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 ---
 
-### 6.4 🚀 StartUP VibeEvents
+### 7.4 🚀 StartUP VibeEvents
 
 <div align="center">
 
@@ -340,7 +363,7 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 ---
 
-### 6.5 🚀 StartUP Superdott
+### 7.5 🚀 StartUP Superdott
 
 <div align="center">
 
@@ -380,7 +403,7 @@ O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e i
 
 ---
 
-### 6.6 🚀 StartUP Unicarona
+### 7.6 🚀 StartUP Unicarona
 
 <div align="center">
 
@@ -427,7 +450,7 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 ---
 
-## 7. ⭐ Foto da Turma
+## 8. ⭐ Foto da Turma
 
 <div align="center">
 
