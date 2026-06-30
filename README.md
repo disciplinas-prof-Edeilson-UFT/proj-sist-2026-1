@@ -356,9 +356,11 @@ O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiro
 |------|------|
 | Landing Page | [Acesse aqui](https://lava-me-landing-page.vercel.app/)|
 | Apresentação do Pitch(Slide) | [Ver apresentação](Documentos_Importantes/lava-me/pitch.html)|
-| Vídeo do Pitch | [Acessar video](https://drive.google.com/file/d/18OqfJpjaShEYbpqRHg632hRuYTG_VpJM/view?usp=sharing) |
+| Vídeo do Pitch | [Acessar video](https://drive.google.com/file/d/18hc2PTYCPSLUnVng1AE_9x7BwLg8XDam/view?usp=sharing) |
 | Apresentação Técnica | [Ver apresentação](Documentos_Importantes/lava-me/apresentacao_tecnica.pdf) |
-| Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
+| Vídeo de Demonstração | [Assistir](https://drive.google.com/file/d/1XulJJQDcDVF3Wf5yZaw4q0QQsGHSrzRl/view?usp=sharing) |
+| Download do APK |  [Baixar APK](https://github.com/HeitorFernandes04/projeto_2026_01/releases) |
+
 
 ---
 
