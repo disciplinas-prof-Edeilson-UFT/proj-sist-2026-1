@@ -326,11 +326,25 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 #### 📝 Descrição do Produto
 
-🔜 _Será adicionada em breve_
+O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiros próximos e digitaliza a operação completa do estabelecimento, permitindo:
+
+- 📍 Descobrir lava-jatos no mapa interativo e agendar uma lavagem em menos de 2 minutos, com horários reais baseados na disponibilidade do estabelecimento
+- 🚗 Acompanhar o veículo em tempo real — o cliente vê cada etapa, do pátio à liberação, como um rastreador de pedido
+- 🔔 Receber notificação e galeria de fotos do carro pronto antes de ir buscar
+- 🗂️ Gerenciar a pista em tempo real com Kanban de veículos, alertas de atraso e controle de equipe pelo painel web do gestor
+- 🛡️ Proteger o estabelecimento juridicamente com vistoria fotográfica obrigatória, registro de avarias e histórico auditável de cada ordem de serviço
+- 💰 Controlar o financeiro com painel de receitas, histórico de transações e exportação de relatórios em PDF
 
 #### 👥 Integrantes
 
-🔜 _Será adicionada em breve_
+| Nome | GitHub |
+|------|--------|
+|  | [@](https://github.com/) |
+|  | [@](https://github.com/) |
+|  | [@](https://github.com/) |
+|  | [@](https://github.com/) |
+|  | [@](https://github.com/) |
+|  | [@](https://github.com/) |
 
 #### 📦 Repositórios
 
@@ -338,7 +352,14 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 #### 📑 Documentação Técnica
 
-🔜 _Será adicionada em breve_
+| Item | Link |
+|------|------|
+| Landing Page | 🔜 _Será adicionada em breve_ |
+| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Apresentação Técnica | 🔜 _Será adicionada em breve_ |
+| Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
+| Download do APK | 🔜 _Será adicionado em breve_ |
 
 ---
 
