@@ -344,7 +344,7 @@ O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiro
 | Heitor Fernandes Carrijo | [@HeitorFernandes04](https://github.com/HeitorFernandes04) |
 | Wanderson Almeida de Mello | [@WandersonAMello](https://github.com/WandersonAMello) |
 | Lucas José de Souza Gomes | [@yamatosz](https://github.com/yamatosz) |
-| Marcos Vincius Barbosa e Silva | [@](https://github.com/) |
+| Marcos Vincius Barbosa e Silva | [@eziors](https://github.com/eziors) |
 
 #### 📦 Repositórios
 
@@ -355,9 +355,9 @@ O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiro
 | Item | Link |
 |------|------|
 | Landing Page | [Acesse aqui](https://lava-me-landing-page.vercel.app/)|
-| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
-| Vídeo do Pitch | https://drive.google.com/file/d/18OqfJpjaShEYbpqRHg632hRuYTG_VpJM/view?usp=sharing |
-| Apresentação Técnica | 🔜 _Será adicionada em breve_ |
+| Apresentação do Pitch(Slide) | [Ver apresentação](Documentos_Importantes/lava-me/pitch.html)|
+| Vídeo do Pitch | [Acessar video](https://drive.google.com/file/d/18OqfJpjaShEYbpqRHg632hRuYTG_VpJM/view?usp=sharing) |
+| Apresentação Técnica | [Ver apresentação](Documentos_Importantes/lava-me/apresentação_tecnica.pdf) |
 | Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
 | Download do APK | 🔜 _Será adicionado em breve_ |
 
