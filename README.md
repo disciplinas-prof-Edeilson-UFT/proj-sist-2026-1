@@ -144,8 +144,8 @@ A atividade reforça a parceria entre o **SEBRAE Tocantins** e a **UFT** no apoi
 
 
 <img src="images/alunos_treinamento_pitch.jpeg" alt="Treinamento de pitch no SEBRAE — foto 1" width="64%" />
-<img src="images/alunos_pitch_sebrae_treinamento.jpeg" alt="Treinamento de pitch no SEBRAE — foto 2" width="48%" style="height: 400px;"/>
-<img src="images/organizadores_pitch_sebrae.jpeg" alt="Treinamento de pitch no SEBRAE — foto 3" width="32%" style="height: 400px;" />
+<img src="images/alunos_pitch_sebrae_treinamento.jpeg" alt="Treinamento de pitch no SEBRAE — foto 2" width="48%" style="height:400px;"/>
+<img src="images/organizadores_pitch_sebrae.jpeg" alt="Treinamento de pitch no SEBRAE — foto 3" width="32%" style="height:400px;" />
 
 
 </div>
@@ -320,25 +320,45 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 <div align="center">
 
-<img src="#" alt="Lava-me" width="160" />
+<img src="images/logo_lavame.jpeg" alt="Lava-me" width="160" />
 
 </div>
 
 #### 📝 Descrição do Produto
 
-🔜 _Será adicionada em breve_
+O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiros próximos e digitaliza a operação completa do estabelecimento, permitindo:
+
+- 📍 Descobrir lava-jatos no mapa interativo e agendar uma lavagem em menos de 2 minutos, com horários reais baseados na disponibilidade do estabelecimento
+- 🚗 Acompanhar o veículo em tempo real — o cliente vê cada etapa, do pátio à liberação, como um rastreador de pedido
+- 🔔 Receber notificação e galeria de fotos do carro pronto antes de ir buscar
+- 🗂️ Gerenciar a pista em tempo real com Kanban de veículos, alertas de atraso e controle de equipe pelo painel web do gestor
+- 🛡️ Proteger o estabelecimento juridicamente com vistoria fotográfica obrigatória, registro de avarias e histórico auditável de cada ordem de serviço
+- 💰 Controlar o financeiro com painel de receitas, histórico de transações e exportação de relatórios em PDF
 
 #### 👥 Integrantes
 
-🔜 _Será adicionada em breve_
+| Nome | GitHub |
+|------|--------|
+| Letícia Gomes Pereira | [@LeticiaGLopes-151](https://github.com/LeticiaGLopes-151) |
+| Maurício Monteiro de Paula Neri | [@MontDeP](https://github.com/MontDeP) |
+| Heitor Fernandes Carrijo | [@HeitorFernandes04](https://github.com/HeitorFernandes04) |
+| Wanderson Almeida de Mello | [@WandersonAMello](https://github.com/WandersonAMello) |
+| Lucas José de Souza Gomes | [@yamatosz](https://github.com/yamatosz) |
+| Marcos Vincius Barbosa e Silva | [@eziors](https://github.com/eziors) |
 
 #### 📦 Repositórios
 
-🔜 _Será adicionado em breve_
+[Repositório do Projeto](https://github.com/HeitorFernandes04/projeto_2026_01)
 
 #### 📑 Documentação Técnica
 
-🔜 _Será adicionada em breve_
+| Item | Link |
+|------|------|
+| Landing Page | [Acesse aqui](https://lava-me-landing-page.vercel.app/)|
+| Apresentação do Pitch(Slide) | [Ver apresentação](Documentos_Importantes/lava-me/pitch.html)|
+| Vídeo do Pitch | [Acessar video](https://drive.google.com/file/d/18OqfJpjaShEYbpqRHg632hRuYTG_VpJM/view?usp=sharing) |
+| Apresentação Técnica | [Ver apresentação](Documentos_Importantes/lava-me/apresentação_tecnica.pdf) |
+| Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
 
 ---
 
