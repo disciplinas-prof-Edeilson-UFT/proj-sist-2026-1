@@ -320,7 +320,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 <div align="center">
 
-<img src="#" alt="Lava-me" width="160" />
+<img src="images/logo_lavame.jpeg" alt="Lava-me" width="160" />
 
 </div>
 
@@ -339,24 +339,24 @@ O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiro
 
 | Nome | GitHub |
 |------|--------|
-|  | [@](https://github.com/) |
-|  | [@](https://github.com/) |
-|  | [@](https://github.com/) |
-|  | [@](https://github.com/) |
-|  | [@](https://github.com/) |
-|  | [@](https://github.com/) |
+| Letícia Gomes Pereira | [@LeticiaGLopes-151](https://github.com/LeticiaGLopes-151) |
+| Maurício Monteiro de Paula Neri | [@MontDeP](https://github.com/MontDeP) |
+| Heitor Fernandes Carrijo | [@HeitorFernandes04](https://github.com/HeitorFernandes04) |
+| Wanderson Almeida de Mello | [@WandersonAMello](https://github.com/WandersonAMello) |
+| Lucas José de Souza Gomes | [@yamatosz](https://github.com/yamatosz) |
+| Marcos Vincius Barbosa e Silva | [@](https://github.com/) |
 
 #### 📦 Repositórios
 
-🔜 _Será adicionado em breve_
+[Repositório do Projeto](https://github.com/HeitorFernandes04/projeto_2026_01)
 
 #### 📑 Documentação Técnica
 
 | Item | Link |
 |------|------|
-| Landing Page | 🔜 _Será adicionada em breve_ |
+| Landing Page | [Acesse aqui](https://lava-me-landing-page.vercel.app/)|
 | Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | https://drive.google.com/file/d/18OqfJpjaShEYbpqRHg632hRuYTG_VpJM/view?usp=sharing |
 | Apresentação Técnica | 🔜 _Será adicionada em breve_ |
 | Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
 | Download do APK | 🔜 _Será adicionado em breve_ |
