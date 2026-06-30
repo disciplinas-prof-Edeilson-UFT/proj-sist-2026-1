@@ -389,7 +389,7 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 <div align="center">
 
-<img src="#" alt="Superdott" width="160" />
+  <img src="images/logo_superdott.png" alt="Superdott" width="160" />
 
 </div>
 
