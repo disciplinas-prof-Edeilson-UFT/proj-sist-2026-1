@@ -50,10 +50,10 @@ O prof. Edeilson Milhomem da Silva é doutor em Ciência da Computação e profe
 
 <table width="100%">
 <tr>
-<td width="320" align="center" valign="middle">
+<td width="350" align="center" valign="middle">
 
 <a href="https://www.instagram.com/p/DaD06Dzic3z/">
-<img src="noticias/startupse-2026-1.png" alt="Convite StartupSE 2026/1" width="300" />
+<img src="noticias/startupse-2026-1.png" alt="Convite StartupSE 2026/1" width="350" />
 </a>
 
 </td>
@@ -73,10 +73,10 @@ O Câmpus UFT Palmas publicou nas redes sociais o convite de participação para
 
 <table width="100%">
 <tr>
-<td width="320" align="center" valign="middle">
+<td width="350" align="center" valign="middle">
 
 <a href="https://www.instagram.com/reel/DaGcBj5RIKr/">
-<img src="noticias/reel-startupse-2026-1.png" alt="Reel de divulgação do StartupSE 2026/1" width="300" />
+<img src="noticias/reel-startupse-2026-1.png" alt="Reel de divulgação do StartupSE 2026/1" width="350" />
 </a>
 
 </td>
@@ -89,6 +89,30 @@ O Câmpus UFT Palmas publicou nas redes sociais o convite de participação para
 Reel produzido pelos alunos para divulgar o evento, apresentando um resumo de tudo o que o **StartupSE 2026/1** terá.
 
 [![Assistir ao Reel](https://img.shields.io/badge/Assistir_ao_Reel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DaGcBj5RIKr/)
+
+</td>
+</tr>
+</table>
+
+
+<table width="100%">
+<tr>
+<td width="350" align="center" valign="middle">
+
+<a href="https://www.uft.edu.br/noticias/demoday-startup-se-reune-estudantes-e-ecossistema-de-inovacao-para-apresentacao-de-startups-desenvolvidas-na-uft">
+<img src="noticias/noticia_uft_demoday.png" alt="Demoday Startup-SE na UFT" width="350" style="height:300px;" />
+</a>
+
+</td>
+<td valign="middle">
+
+### 🏛️ Demoday Startup-SE no Portal da UFT
+
+`📅 2026` · `📰 Portal UFT`
+
+**Demoday Startup-SE reúne estudantes e ecossistema de inovação para apresentar startups desenvolvidas na UFT.** Evento promovido pelo curso de Ciência da Computação, em parceria com o **Sebrae Tocantins**.
+
+[![Ler no Portal UFT](https://img.shields.io/badge/Ler_no_Portal_UFT-1B3A5B?style=for-the-badge&logoColor=white)](https://www.uft.edu.br/noticias/demoday-startup-se-reune-estudantes-e-ecossistema-de-inovacao-para-apresentacao-de-startups-desenvolvidas-na-uft)
 
 </td>
 </tr>
@@ -118,14 +142,11 @@ A atividade reforça a parceria entre o **SEBRAE Tocantins** e a **UFT** no apoi
 
 <div align="center">
 
-🔜 _Serão adicionadas em breve_
-
 
 <img src="images/alunos_treinamento_pitch.jpeg" alt="Treinamento de pitch no SEBRAE — foto 1" width="64%" />
-<!-- substituir por (galeria de três fotos lado a lado):
-<img src="noticias/sebrae-pitch-2.png" alt="Treinamento de pitch no SEBRAE — foto 2" width="32%" />
-<img src="noticias/sebrae-pitch-3.png" alt="Treinamento de pitch no SEBRAE — foto 3" width="32%" />
--->
+<img src="images/alunos_pitch_sebrae_treinamento.jpeg" alt="Treinamento de pitch no SEBRAE — foto 2" width="48%" style="height:430px;"/>
+<img src="images/organizadores_pitch_sebrae.jpeg" alt="Treinamento de pitch no SEBRAE — foto 3" width="32%" />
+
 
 </div>
 
