@@ -94,7 +94,6 @@ Reel produzido pelos alunos para divulgar o evento, apresentando um resumo de tu
 </tr>
 </table>
 
-
 <table width="100%">
 <tr>
 <td width="350" align="center" valign="middle">
@@ -113,6 +112,29 @@ Reel produzido pelos alunos para divulgar o evento, apresentando um resumo de tu
 **Demoday Startup-SE reúne estudantes e ecossistema de inovação para apresentar startups desenvolvidas na UFT.** Evento promovido pelo curso de Ciência da Computação, em parceria com o **Sebrae Tocantins**.
 
 [![Ler no Portal UFT](https://img.shields.io/badge/Ler_no_Portal_UFT-1B3A5B?style=for-the-badge&logoColor=white)](https://www.uft.edu.br/noticias/demoday-startup-se-reune-estudantes-e-ecossistema-de-inovacao-para-apresentacao-de-startups-desenvolvidas-na-uft)
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="350" align="center" valign="middle">
+
+<a href="https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/">
+<img src="noticias/startupse_sebrae_portal.png" alt="Startup-SE no Portal do Sebrae" width="350" style="height:300px;" />
+</a>
+
+</td>
+<td valign="middle">
+
+### 🏢 Startup-SE no Portal do Sebrae
+
+`📅 2026` · `📰 Agência Sebrae`
+
+**Startup-SE realiza competição de inovação entre universitários em Palmas.** Projeto desenvolvido pela UFT em parceria com o Sebrae incentiva empreendedorismo, criatividade e resolução de problemas por meio de desafios práticos.
+
+[![Ler no Sebrae](https://img.shields.io/badge/Ler_no_Sebrae-005EB8?style=for-the-badge&logoColor=white)](https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/)
 
 </td>
 </tr>
