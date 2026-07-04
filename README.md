@@ -166,9 +166,6 @@ Além das apresentações, o evento contou com uma premiação: os projetos fora
 
 </div>
 
-
-</div>
-
 ### 📸 Fotografias do Evento
 
 <div align="center">
@@ -186,7 +183,7 @@ Além das apresentações, o evento contou com uma premiação: os projetos fora
 
 ---
 
-### 7.1 🚀 StartUP OwnMyWay
+### 7.1 🚀 StartUP OwnMyWay<img src="images/trofeu2.png" alt="2º lugar — Startup-SE" width="34" />
 
 <div align="center">
 
@@ -398,7 +395,7 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 
 ---
 
-### 7.5 🚀 StartUP Superdott
+### 7.5 🚀 StartUP Superdott<img src="images/trofeu3.png" alt="3º lugar — Startup-SE" width="34" />
 
 <div align="center">
 
@@ -436,7 +433,7 @@ O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e i
 
 ---
 
-### 7.6 🚀 StartUP Unicarona
+### 7.6 🚀 StartUP Unicarona<img src="images/trofeu1.png" alt="1º lugar — Startup-SE" width="34" />
 
 <div align="center">
 
