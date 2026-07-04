@@ -552,6 +552,6 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 <div align="center">
 
-_[Inserir foto da turma]_
+<img src="images/alunos_treinamento_pitch.jpeg" alt="Equipe Unicarona Startup-SE" width="1000" /> 
 
 </div>
