@@ -180,6 +180,12 @@ O **Startup-SE** é o evento de encerramento da disciplina Projeto de Sistemas, 
 
 Além das apresentações, o evento contou com uma premiação: os projetos foram avaliados e os **três melhores** receberam destaque no **Top 3** da turma, reconhecendo as soluções com maior potencial de negócio e qualidade de execução. Mais do que uma avaliação final, o Startup-SE consolida a ponte entre a academia e o ecossistema de inovação do Tocantins, dando visibilidade ao trabalho dos estudantes diante de representantes do mercado.
 
+**🏆 Top 3 — Startup-SE 2026/1**
+
+- 🥇 **1º lugar:** [UniCarona](#76--startup-unicarona)
+- 🥈 **2º lugar:** [OwnMyWay](#71--startup-ownmyway)
+- 🥉 **3º lugar:** [Superdott](#75--startup-superdott)
+
 ### 🖼️ Banner de Divulgação
 
 <div align="center">
