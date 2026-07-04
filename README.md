@@ -181,7 +181,7 @@ Além das apresentações, o evento contou com uma premiação: os projetos fora
 <img src="images/startupse-foto-5.jpeg" alt="Startup-SE 2026/1 — foto 5" width="40%" />
 
 </div>
----
+
 ## 7. 🛠 Projetos das Startups
 
 ---
