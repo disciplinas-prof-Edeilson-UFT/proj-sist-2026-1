@@ -235,6 +235,14 @@ O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
 | Vídeo de Demonstração | [Vídeo](https://www.youtube.com/watch?v=Flz4_X3lE1Q) |
 | Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
 
+#### 📸 Foto da Equipe (Startup-SE)
+
+<div align="center">
+
+<img src="images/grupo1.jpeg" alt="Equipe OwnMyWay no Startup-SE" width="480" /> 
+
+</div>
+
 ---
 
 ### 7.2 🚀 StartUP TimerBook
@@ -298,9 +306,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 <div align="center">
 
-🔜 _Será adicionada em breve_
-
-<!-- substituir por: <img src="COLE_O_LINK_DA_FOTO_AQUI" alt="Equipe TimerBook no Startup-SE" width="480" /> -->
+  <img src="images/grupo2.jpeg" alt="Equipe TimerBook no Startup-SE" width="480" /> 
 
 </div>
 
@@ -350,6 +356,14 @@ O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiro
 | Apresentação Técnica | [Ver apresentação](Documentos_Importantes/lava-me/apresentação_tecnica.pdf) |
 | Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
 
+#### 📸 Foto da Equipe (Startup-SE)
+
+<div align="center">
+
+ <img src="images/grupo3.jpeg" alt="Equipe Lava-me no Startup-SE" width="480" /> 
+
+</div>
+
 ---
 
 ### 7.4 🚀 StartUP VibeEvents
@@ -393,6 +407,14 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 | Vídeo de Demonstração | [Aqui](https://github.com/HerreraCris/VibeEvents/blob/develop/static/V%C3%ADdeo%20demonstra%C3%A7%C3%A3o) |
 | Download do APK | [Link](https://github.com/HerreraCris/VibeEvents/blob/develop/app-release-signed.apk) |
 
+#### 📸 Foto da Equipe (Startup-SE)
+
+<div align="center">
+
+<img src="images/grupo4.jpeg" alt="Equipe Vibeevents no Startup-SE" width="480" /> 
+
+</div>
+
 ---
 
 ### 7.5 🚀 StartUP Superdott<img src="images/trofeu3.png" alt="3º lugar — Startup-SE" width="34" />
@@ -430,6 +452,16 @@ O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e i
 | Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
 | Apresentação Técnica | [Apresentação](https://canva.link/vwlx330uhfc4nk7) |
 | Vídeo de Demonstração |  🔜 _Será adicionado em breve_ |
+
+#### 📸 Foto da Equipe (Startup-SE)
+
+<div align="center">
+
+
+
+<img src="images/grupo5.png" alt="Equipe SuperDott no Startup-SE" width="480" /> 
+
+</div>
 
 ---
 
@@ -477,6 +509,14 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 | Documentação Swagger | `http://[host]:3000/api-docs` |
 | Vídeo de Demonstração | em breve |
 | Download do APK | [APK](https://unicarona.caykedev.com/#download) |
+
+#### 📸 Foto da Equipe (Startup-SE)
+
+<div align="center">
+
+ <img src="images/grupo6.jpeg" alt="Equipe Unicarona Startup-SE" width="480" /> 
+
+</div>
 
 ---
 
