@@ -154,7 +154,9 @@ A atividade reforça a parceria entre o **SEBRAE Tocantins** e a **UFT** no apoi
 
 ## 6. 💡 Startup-SE
 
-Evento de encerramento em que os projetos são apresentados à banca avaliadora e ao público presente. O evento foi realizado em parceria com o SEBRAE Tocantins no auditório do SEBRAE Tocantins, na cidade de Palmas.
+O **Startup-SE** é o evento de encerramento da disciplina Projeto de Sistemas, realizado em parceria entre a **UFT** e o **SEBRAE Tocantins**, no auditório do SEBRAE, em Palmas. Ao longo do semestre, os alunos da disciplina conceberam e desenvolveram projetos de startups — da identificação do problema à construção do produto — e, no evento, cada equipe apresentou seu pitch a uma banca avaliadora e ao público presente.
+
+Além das apresentações, o evento contou com uma premiação: os projetos foram avaliados e os **três melhores** receberam destaque no **Top 3** da turma, reconhecendo as soluções com maior potencial de negócio e qualidade de execução. Mais do que uma avaliação final, o Startup-SE consolida a ponte entre a academia e o ecossistema de inovação do Tocantins, dando visibilidade ao trabalho dos estudantes diante de representantes do mercado.
 
 ### 🖼️ Banner de Divulgação
 
@@ -164,13 +166,6 @@ Evento de encerramento em que os projetos são apresentados à banca avaliadora 
 
 </div>
 
-### 🏷️ Logo do Evento
-
-<div align="center">
-
-🔜 _Será adicionada em breve_
-
-<!-- substituir por: <img src="COLE_O_CAMINHO_DA_LOGO_AQUI" alt="Logo do StartupSE 2026/1" width="240" /> -->
 
 </div>
 
@@ -180,14 +175,15 @@ Evento de encerramento em que os projetos são apresentados à banca avaliadora 
 
 🔜 _Serão adicionadas em breve_
 
-<!-- substituir por (exemplo de galeria lado a lado):
-<img src="COLE_O_CAMINHO_DA_FOTO_1" alt="StartupSE 2026/1 — foto 1" width="32%" />
-<img src="COLE_O_CAMINHO_DA_FOTO_2" alt="StartupSE 2026/1 — foto 2" width="32%" />
-<img src="COLE_O_CAMINHO_DA_FOTO_3" alt="StartupSE 2026/1 — foto 3" width="32%" />
+<!-- substituir por (galeria de 5 fotos — 3 em cima, 2 embaixo):
+<img src="images/startupse-foto-1.jpeg" alt="Startup-SE 2026/1 — foto 1" width="32%" />
+<img src="images/startupse-foto-2.jpeg" alt="Startup-SE 2026/1 — foto 2" width="32%" />
+<img src="images/startupse-foto-3.jpeg" alt="Startup-SE 2026/1 — foto 3" width="32%" />
+<img src="images/startupse-foto-4.jpeg" alt="Startup-SE 2026/1 — foto 4" width="32%" />
+<img src="images/startupse-foto-5.jpeg" alt="Startup-SE 2026/1 — foto 5" width="32%" />
 -->
 
 </div>
-
 ---
 ## 7. 🛠 Projetos das Startups
 
