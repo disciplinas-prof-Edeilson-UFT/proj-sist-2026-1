@@ -173,15 +173,12 @@ Além das apresentações, o evento contou com uma premiação: os projetos fora
 
 <div align="center">
 
-🔜 _Serão adicionadas em breve_
 
-<!-- substituir por (galeria de 5 fotos — 3 em cima, 2 embaixo):
 <img src="images/startupse-foto-1.jpeg" alt="Startup-SE 2026/1 — foto 1" width="32%" />
 <img src="images/startupse-foto-2.jpeg" alt="Startup-SE 2026/1 — foto 2" width="32%" />
 <img src="images/startupse-foto-3.jpeg" alt="Startup-SE 2026/1 — foto 3" width="32%" />
 <img src="images/startupse-foto-4.jpeg" alt="Startup-SE 2026/1 — foto 4" width="32%" />
 <img src="images/startupse-foto-5.jpeg" alt="Startup-SE 2026/1 — foto 5" width="32%" />
--->
 
 </div>
 ---
