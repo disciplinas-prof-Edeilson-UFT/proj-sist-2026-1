@@ -381,8 +381,9 @@ O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiro
 | Landing Page | [Acesse aqui](https://lava-me-landing-page.vercel.app/)|
 | Apresentação do Pitch(Slide) | [Ver apresentação](Documentos_Importantes/lava-me/pitch.html)|
 | Vídeo do Pitch | [Acessar video](https://youtu.be/LPWH_EMywUc) |
-| Apresentação Técnica | [Ver apresentação](Documentos_Importantes/lava-me/apresentação_tecnica.pdf) |
-| Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
+| Apresentação Técnica | [Ver apresentação](Documentos_Importantes/lava-me/apresentacao_tecnica.pdf) |
+| Vídeo de Demonstração | [Assistir](https://drive.google.com/file/d/1XulJJQDcDVF3Wf5yZaw4q0QQsGHSrzRl/view?usp=sharing) |
+| Download do APK |  [Baixar APK](https://github.com/HeitorFernandes04/projeto_2026_01/releases) |
 
 #### 📸 Foto da Equipe (Startup-SE)
 
@@ -534,7 +535,6 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 | Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
 | Vídeo do Pitch | [Assistir ao pitch](https://youtu.be/aItkbt0qFCU)|
 | Apresentação Técnica | [Apresentação](./Unicarona//Apresentação%20Técnica.pptx) |
-| Documentação Swagger | `http://[host]:3000/api-docs` |
 | Vídeo de Demonstração | em breve |
 | Download do APK | [APK](https://unicarona.caykedev.com/#download) |
 
