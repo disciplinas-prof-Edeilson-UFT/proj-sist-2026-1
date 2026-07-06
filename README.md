@@ -258,7 +258,7 @@ O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
 |------|------|
 | Landing Page | [Acesse aqui](https://felixjp23.github.io/OwnMyWay/) |
 | Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | [Assistir](https://youtu.be/mv552wNFOss) |
 | Apresentação Técnica | [Apresentação](https://github.com/FelixJP23/OwnMyWay/blob/main/Apresentac%C3%A3o_tecnica.pdf) |
 | Vídeo de Demonstração | [Vídeo](https://www.youtube.com/watch?v=Flz4_X3lE1Q) |
 | Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
@@ -325,7 +325,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 |------|------|
 | Landing Page | [Acesse aqui](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
 | Apresentação do Pitch(Slide) | [Ver apresentação](https://github.com/lucas-mcarvalho/TimerBook_PS/raw/main/docs/apresentacao_pitch.pdf)  |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | [Assistir](https://youtu.be/uPCm1jNWfgY)|
 | Vídeo de Demonstração |  [Assistir à demo](https://youtu.be/IpGd2R0_AH8) |
 | Apresentação Técnica | [Ver apresentação](https://raw.githubusercontent.com/lucas-mcarvalho/TimerBook_PS/main/docs/apresentacao_tecnica.pdf) |
 | Download do APK |  [Baixar APK](https://raw.githubusercontent.com/lucas-mcarvalho/TimerBookMobile/main/timerbook.apk) |
@@ -380,7 +380,7 @@ O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiro
 |------|------|
 | Landing Page | [Acesse aqui](https://lava-me-landing-page.vercel.app/)|
 | Apresentação do Pitch(Slide) | [Ver apresentação](Documentos_Importantes/lava-me/pitch.html)|
-| Vídeo do Pitch | [Acessar video](https://drive.google.com/file/d/18OqfJpjaShEYbpqRHg632hRuYTG_VpJM/view?usp=sharing) |
+| Vídeo do Pitch | [Acessar video](https://youtu.be/LPWH_EMywUc) |
 | Apresentação Técnica | [Ver apresentação](Documentos_Importantes/lava-me/apresentação_tecnica.pdf) |
 | Vídeo de Demonstração | 🔜 _Será adicionado em breve_ |
 
@@ -430,7 +430,7 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 |------|------|
 | Landing Page | [Repositório](https://herreracris.github.io/VibeEvents/)|
 | Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch |  [Assistir ao pitch](https://youtu.be/TAzx_LiH8IE)|
 | Apresentação Técnica | [Aqui](https://github.com/HerreraCris/VibeEvents/blob/develop/static/Apresenta%C3%A7%C3%A3o%20T%C3%A9cnica) |
 | Vídeo de Demonstração | [Aqui](https://github.com/HerreraCris/VibeEvents/blob/develop/static/V%C3%ADdeo%20demonstra%C3%A7%C3%A3o) |
 | Download do APK | [Link](https://github.com/HerreraCris/VibeEvents/blob/develop/app-release-signed.apk) |
@@ -477,7 +477,7 @@ O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e i
 |------|------|
 | Landing Page | [Acesse aqui](https://superdott.onrender.com/) |
 | Apresentação do Pitch | [Apresentação](https://canva.link/ama8dgr1yqrnzxt) |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | [Assistir ao pitch](https://youtu.be/xBnYmN3EDd0) |
 | Apresentação Técnica | [Apresentação](https://canva.link/vwlx330uhfc4nk7) |
 | Vídeo de Demonstração |  🔜 _Será adicionado em breve_ |
 
@@ -532,7 +532,7 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 |------|------|
 | Landing Page | [Acesse aqui](https://unicarona.caykedev.com/) |
 | Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | [Assistir ao pitch](https://youtu.be/aItkbt0qFCU)|
 | Apresentação Técnica | [Apresentação](./Unicarona//Apresentação%20Técnica.pptx) |
 | Documentação Swagger | `http://[host]:3000/api-docs` |
 | Vídeo de Demonstração | em breve |
