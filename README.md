@@ -29,6 +29,8 @@
 | &nbsp;&nbsp;↳ | [Grupo 4 — Vibeevents](#74--startup-vibeevents) |
 | &nbsp;&nbsp;↳ | [Grupo 5 — Superdott](#75--startup-superdott) |
 | &nbsp;&nbsp;↳ | [Grupo 6 — Unicarona](#76--startup-unicarona) |
+| 8️⃣ | [Foto da Turma](#8--foto-da-turma) |
+| 9️⃣ | [Documentos Importantes](#9--documentos-importantes) |
 
 ---
 
@@ -577,3 +579,17 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 <img src="images/alunos_treinamento_pitch.jpeg" alt="Equipe Unicarona Startup-SE" width="1000" /> 
 
 </div>
+
+
+---
+
+## 9. 📂 Documentos Importantes
+
+Documentos de planejamento, organização e execução do **Startup-SE**, reunidos na pasta `Documentos_Importantes` do repositório.
+
+| 📄 Documento | Descrição | Link |
+|------|-----------|------|
+| **Planejamento Interno Startup-SE** | Documento elaborado pelos alunos em conjunto com o professor, no qual foram divididas as funções e atividades necessárias para a realização do evento — como definir os responsáveis pela divulgação e pela organização do repositório. | [Acessar](COLE_O_LINK_AQUI) |
+| **Plano de Ação Startup-SE** | Documento elaborado pelo professor da disciplina, apresentando todo o planejamento e a execução do evento: definição das regras, cronograma e demais artefatos usados para viabilizar o Startup-SE em parceria com o SEBRAE. | [Acessar](COLE_O_LINK_AQUI) |
+| **Redes Sociais dos Alunos** | Documento que concentra os perfis do Instagram dos alunos, usado pela equipe de divulgação para marcar os envolvidos e ampliar o alcance das publicações por meio dos reposts. | [Acessar](COLE_O_LINK_AQUI) |
+| **Cerimonial** | Documento que organiza a condução do evento, com a ordem dos acontecimentos e os textos lidos pelo apresentador — incluindo uma breve descrição e o resumo da proposta de cada projeto. | [Acessar](COLE_O_LINK_AQUI) |
