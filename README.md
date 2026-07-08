@@ -45,7 +45,6 @@ A disciplina tem como proposta envolver os estudantes em um processo prático e 
 O prof. Edeilson Milhomem da Silva é doutor em Ciência da Computação e professor do Curso de Bacharelado em Ciência da Computação da UFT. Atua na promoção de iniciativas que aproximam academia e mercado, com foco em inovação, empreendedorismo tecnológico e engenharia de software. Em 2026, recebeu do SEBRAE o prêmio "Professor Empreendedor". É coautor do livro *Sistemas Colaborativos*, obra reconhecida nacionalmente na área e premiada com o 3º lugar no Prêmio Jabuti 2012, na categoria Tecnologia e Informática. Também é cofundador do Movimento Startup Tocantins, iniciativa voltada ao fortalecimento do ecossistema de inovação e empreendedorismo no estado do Tocantins. Coordena o Laboratório EPIC de Aprendizagem Colaborativa, espaço dedicado à inovação, metodologias ativas e desenvolvimento de competências empreendedoras. No EPIC, lidera projetos voltados à criação de soluções tecnológicas alinhadas às demandas reais da sociedade e do setor produtivo.
 
 ---
-
 ## 3. 📰 Notícias e Reconhecimentos
 
 <table width="100%">
@@ -135,6 +134,29 @@ Reel produzido pelos alunos para divulgar o evento, apresentando um resumo de tu
 **Startup-SE realiza competição de inovação entre universitários em Palmas.** Projeto desenvolvido pela UFT em parceria com o Sebrae incentiva empreendedorismo, criatividade e resolução de problemas por meio de desafios práticos.
 
 [![Ler no Sebrae](https://img.shields.io/badge/Ler_no_Sebrae-005EB8?style=for-the-badge&logoColor=white)](https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/)
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="350" align="center" valign="middle">
+
+<a href="https://www.instagram.com/reel/DaYMe4JxUqu/">
+<img src="noticias/reel-uftcomp-sebrae.png" alt="Encerramento do Startup-SE — Curso de CC" width="350" />
+</a>
+
+</td>
+<td valign="middle">
+
+### 🎬 Encerramento do Startup-SE
+
+`📅 2026` · `🎥 Instagram Reels`
+
+O Curso de Ciência da Computação da UFT publicou os momentos do evento de encerramento do **Startup-SE**.
+
+[![Assistir ao Reel](https://img.shields.io/badge/Assistir_ao_Reel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DaYMe4JxUqu/)
 
 </td>
 </tr>
