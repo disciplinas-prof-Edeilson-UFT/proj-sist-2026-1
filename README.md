@@ -29,6 +29,10 @@
 | &nbsp;&nbsp;↳ | [Grupo 4 — Vibeevents](#74--startup-vibeevents) |
 | &nbsp;&nbsp;↳ | [Grupo 5 — Superdott](#75--startup-superdott) |
 | &nbsp;&nbsp;↳ | [Grupo 6 — Unicarona](#76--startup-unicarona) |
+| 8️⃣ | [Apoio do SEBRAE](#8--apoio-do-sebrae) |
+| 9️⃣ | [Foto da Turma](#9--foto-da-turma) |
+| 🔟 | [Relatos dos Alunos](#10--relatos-dos-alunos) |
+| 1️⃣1️⃣ | [Documentos Importantes](#11--documentos-importantes) |
 
 ---
 
@@ -45,7 +49,6 @@ A disciplina tem como proposta envolver os estudantes em um processo prático e 
 O prof. Edeilson Milhomem da Silva é doutor em Ciência da Computação e professor do Curso de Bacharelado em Ciência da Computação da UFT. Atua na promoção de iniciativas que aproximam academia e mercado, com foco em inovação, empreendedorismo tecnológico e engenharia de software. Em 2026, recebeu do SEBRAE o prêmio "Professor Empreendedor". É coautor do livro *Sistemas Colaborativos*, obra reconhecida nacionalmente na área e premiada com o 3º lugar no Prêmio Jabuti 2012, na categoria Tecnologia e Informática. Também é cofundador do Movimento Startup Tocantins, iniciativa voltada ao fortalecimento do ecossistema de inovação e empreendedorismo no estado do Tocantins. Coordena o Laboratório EPIC de Aprendizagem Colaborativa, espaço dedicado à inovação, metodologias ativas e desenvolvimento de competências empreendedoras. No EPIC, lidera projetos voltados à criação de soluções tecnológicas alinhadas às demandas reais da sociedade e do setor produtivo.
 
 ---
-
 ## 3. 📰 Notícias e Reconhecimentos
 
 <table width="100%">
@@ -94,7 +97,6 @@ Reel produzido pelos alunos para divulgar o evento, apresentando um resumo de tu
 </tr>
 </table>
 
-
 <table width="100%">
 <tr>
 <td width="350" align="center" valign="middle">
@@ -113,6 +115,52 @@ Reel produzido pelos alunos para divulgar o evento, apresentando um resumo de tu
 **Demoday Startup-SE reúne estudantes e ecossistema de inovação para apresentar startups desenvolvidas na UFT.** Evento promovido pelo curso de Ciência da Computação, em parceria com o **Sebrae Tocantins**.
 
 [![Ler no Portal UFT](https://img.shields.io/badge/Ler_no_Portal_UFT-1B3A5B?style=for-the-badge&logoColor=white)](https://www.uft.edu.br/noticias/demoday-startup-se-reune-estudantes-e-ecossistema-de-inovacao-para-apresentacao-de-startups-desenvolvidas-na-uft)
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="350" align="center" valign="middle">
+
+<a href="https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/">
+<img src="noticias/startupse_sebrae_portal.png" alt="Startup-SE no Portal do Sebrae" width="350" style="height:300px;" />
+</a>
+
+</td>
+<td valign="middle">
+
+### 🏢 Startup-SE no Portal do Sebrae
+
+`📅 2026` · `📰 Agência Sebrae`
+
+**Startup-SE realiza competição de inovação entre universitários em Palmas.** Projeto desenvolvido pela UFT em parceria com o Sebrae incentiva empreendedorismo, criatividade e resolução de problemas por meio de desafios práticos.
+
+[![Ler no Sebrae](https://img.shields.io/badge/Ler_no_Sebrae-005EB8?style=for-the-badge&logoColor=white)](https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/)
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="350" align="center" valign="middle">
+
+<a href="https://www.instagram.com/reel/DaYMe4JxUqu/">
+<img src="noticias/reel-uftcomp-sebrae.png" alt="Encerramento do Startup-SE — Curso de CC" width="350" />
+</a>
+
+</td>
+<td valign="middle">
+
+### 🎬 Encerramento do Startup-SE
+
+`📅 2026` · `🎥 Instagram Reels`
+
+O Curso de Ciência da Computação da UFT publicou os momentos do evento de encerramento do **Startup-SE**.
+
+[![Assistir ao Reel](https://img.shields.io/badge/Assistir_ao_Reel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DaYMe4JxUqu/)
 
 </td>
 </tr>
@@ -154,7 +202,15 @@ A atividade reforça a parceria entre o **SEBRAE Tocantins** e a **UFT** no apoi
 
 ## 6. 💡 Startup-SE
 
-Evento de encerramento em que os projetos são apresentados à banca avaliadora e ao público presente. O evento foi realizado em parceria com o SEBRAE Tocantins no auditório do SEBRAE Tocantins, na cidade de Palmas.
+O **Startup-SE** é o evento de encerramento da disciplina Projeto de Sistemas, realizado em parceria entre a **UFT** e o **SEBRAE Tocantins**, no auditório do SEBRAE, em Palmas. Ao longo do semestre, os alunos da disciplina conceberam e desenvolveram projetos de startups — da identificação do problema à construção do produto — e, no evento, cada equipe apresentou seu pitch a uma banca avaliadora e ao público presente.
+
+Além das apresentações, o evento contou com uma premiação: os projetos foram avaliados e os **três melhores** receberam destaque no **Top 3** da turma, reconhecendo as soluções com maior potencial de negócio e qualidade de execução. Mais do que uma avaliação final, o Startup-SE consolida a ponte entre a academia e o ecossistema de inovação do Tocantins, dando visibilidade ao trabalho dos estudantes diante de representantes do mercado.
+
+**🏆 Top 3 — Startup-SE 2026/1**
+
+- 🥇 **1º lugar:** [UniCarona](#76--startup-unicarona)
+- 🥈 **2º lugar:** [OwnMyWay](#71--startup-ownmyway)
+- 🥉 **3º lugar:** [Superdott](#75--startup-superdott)
 
 ### 🖼️ Banner de Divulgação
 
@@ -164,36 +220,24 @@ Evento de encerramento em que os projetos são apresentados à banca avaliadora 
 
 </div>
 
-### 🏷️ Logo do Evento
-
-<div align="center">
-
-🔜 _Será adicionada em breve_
-
-<!-- substituir por: <img src="COLE_O_CAMINHO_DA_LOGO_AQUI" alt="Logo do StartupSE 2026/1" width="240" /> -->
-
-</div>
-
 ### 📸 Fotografias do Evento
 
 <div align="center">
 
-🔜 _Serão adicionadas em breve_
 
-<!-- substituir por (exemplo de galeria lado a lado):
-<img src="COLE_O_CAMINHO_DA_FOTO_1" alt="StartupSE 2026/1 — foto 1" width="32%" />
-<img src="COLE_O_CAMINHO_DA_FOTO_2" alt="StartupSE 2026/1 — foto 2" width="32%" />
-<img src="COLE_O_CAMINHO_DA_FOTO_3" alt="StartupSE 2026/1 — foto 3" width="32%" />
--->
+<img src="images/startupse-foto-1.jpeg" alt="Startup-SE 2026/1 — foto 1" width="40%" />
+<img src="images/startupse-foto-2.jpeg" alt="Startup-SE 2026/1 — foto 2" width="40%" />
+<img src="images/startupse-foto-3.jpeg" alt="Startup-SE 2026/1 — foto 3" width="40%" style="height:500px;" />
+<img src="images/startupse-foto-4.jpeg" alt="Startup-SE 2026/1 — foto 4" width="40%" style="height:500px;" />
+<img src="images/startupse-foto-5.jpeg" alt="Startup-SE 2026/1 — foto 5" width="40%" />
 
 </div>
 
----
 ## 7. 🛠 Projetos das Startups
 
 ---
 
-### 7.1 🚀 StartUP OwnMyWay
+### 7.1 🚀 StartUP OwnMyWay<img src="images/trofeu2.png" alt="2º lugar — Startup-SE" width="34" />
 
 <div align="center">
 
@@ -239,11 +283,19 @@ O **OwnMyWay** é um aplicativo mobile de turismo personalizado que:
 | Item | Link |
 |------|------|
 | Landing Page | [Acesse aqui](https://felixjp23.github.io/OwnMyWay/) |
-| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Apresentação do Pitch(Slide) | [Ver apresentação](Documentos_Importantes/pitchs/grupo1.pdf) |
+| Vídeo do Pitch | [Assistir](https://youtu.be/mv552wNFOss) |
 | Apresentação Técnica | [Apresentação](https://github.com/FelixJP23/OwnMyWay/blob/main/Apresentac%C3%A3o_tecnica.pdf) |
 | Vídeo de Demonstração | [Vídeo](https://www.youtube.com/watch?v=Flz4_X3lE1Q) |
 | Download do APK | [APK](https://github.com/FelixJP23/OwnMyWay/releases/tag/1.5) |
+
+#### 📸 Foto da Equipe (Startup-SE)
+
+<div align="center">
+
+<img src="images/grupo1.jpeg" alt="Equipe OwnMyWay no Startup-SE" width="480" /> 
+
+</div>
 
 ---
 
@@ -299,7 +351,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 |------|------|
 | Landing Page | [Acesse aqui](https://lucas-mcarvalho.github.io/TimerBook_PS/) |
 | Apresentação do Pitch(Slide) | [Ver apresentação](https://github.com/lucas-mcarvalho/TimerBook_PS/raw/main/docs/apresentacao_pitch.pdf)  |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | [Assistir](https://youtu.be/uPCm1jNWfgY)|
 | Vídeo de Demonstração |  [Assistir à demo](https://youtu.be/IpGd2R0_AH8) |
 | Apresentação Técnica | [Ver apresentação](https://raw.githubusercontent.com/lucas-mcarvalho/TimerBook_PS/main/docs/apresentacao_tecnica.pdf) |
 | Download do APK |  [Baixar APK](https://raw.githubusercontent.com/lucas-mcarvalho/TimerBookMobile/main/timerbook.apk) |
@@ -308,9 +360,7 @@ O **TimerBook** é uma aplicação **web e mobile** de biblioteca virtual pessoa
 
 <div align="center">
 
-🔜 _Será adicionada em breve_
-
-<!-- substituir por: <img src="COLE_O_LINK_DA_FOTO_AQUI" alt="Equipe TimerBook no Startup-SE" width="480" /> -->
+  <img src="images/grupo2.jpeg" alt="Equipe TimerBook no Startup-SE" width="480" /> 
 
 </div>
 
@@ -356,11 +406,18 @@ O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiro
 |------|------|
 | Landing Page | [Acesse aqui](https://lava-me-landing-page.vercel.app/)|
 | Apresentação do Pitch(Slide) | [Ver apresentação](Documentos_Importantes/lava-me/pitch.html)|
-| Vídeo do Pitch | [Acessar video](https://drive.google.com/file/d/18hc2PTYCPSLUnVng1AE_9x7BwLg8XDam/view?usp=sharing) |
+| Vídeo do Pitch | [Acessar video](https://youtu.be/LPWH_EMywUc) |
 | Apresentação Técnica | [Ver apresentação](Documentos_Importantes/lava-me/apresentacao_tecnica.pdf) |
 | Vídeo de Demonstração | [Assistir](https://drive.google.com/file/d/1XulJJQDcDVF3Wf5yZaw4q0QQsGHSrzRl/view?usp=sharing) |
 | Download do APK |  [Baixar APK](https://github.com/HeitorFernandes04/projeto_2026_01/releases) |
 
+#### 📸 Foto da Equipe (Startup-SE)
+
+<div align="center">
+
+ <img src="images/grupo3.jpeg" alt="Equipe Lava-me no Startup-SE" width="480" /> 
+
+</div>
 
 ---
 
@@ -399,15 +456,23 @@ O **VibeEvents** é uma plataforma de integração regional de eventos com foco 
 | Item | Link |
 |------|------|
 | Landing Page | [Repositório](https://herreracris.github.io/VibeEvents/)|
-| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Apresentação do Pitch(Slide) | [Ver apresentação](Documentos_Importantes/pitchs/grupo4.pdf) |
+| Vídeo do Pitch |  [Assistir ao pitch](https://youtu.be/TAzx_LiH8IE)|
 | Apresentação Técnica | [Aqui](https://github.com/HerreraCris/VibeEvents/blob/develop/static/Apresenta%C3%A7%C3%A3o%20T%C3%A9cnica) |
 | Vídeo de Demonstração | [Aqui](https://github.com/HerreraCris/VibeEvents/blob/develop/static/V%C3%ADdeo%20demonstra%C3%A7%C3%A3o) |
 | Download do APK | [Link](https://github.com/HerreraCris/VibeEvents/blob/develop/app-release-signed.apk) |
 
+#### 📸 Foto da Equipe (Startup-SE)
+
+<div align="center">
+
+<img src="images/grupo4.jpeg" alt="Equipe Vibeevents no Startup-SE" width="480" /> 
+
+</div>
+
 ---
 
-### 7.5 🚀 StartUP Superdott
+### 7.5 🚀 StartUP Superdott<img src="images/trofeu3.png" alt="3º lugar — Startup-SE" width="34" />
 
 <div align="center">
 
@@ -439,13 +504,23 @@ O **Superdott** é uma plataforma SaaS híbrida (B2B/B2C) de gestão escolar e i
 |------|------|
 | Landing Page | [Acesse aqui](https://superdott.onrender.com/) |
 | Apresentação do Pitch | [Apresentação](https://canva.link/ama8dgr1yqrnzxt) |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Vídeo do Pitch | [Assistir ao pitch](https://youtu.be/xBnYmN3EDd0) |
 | Apresentação Técnica | [Apresentação](https://canva.link/vwlx330uhfc4nk7) |
-| Vídeo de Demonstração |  🔜 _Será adicionado em breve_ |
+
+
+#### 📸 Foto da Equipe (Startup-SE)
+
+<div align="center">
+
+
+
+<img src="images/grupo5.png" alt="Equipe SuperDott no Startup-SE" width="480" /> 
+
+</div>
 
 ---
 
-### 7.6 🚀 StartUP Unicarona
+### 7.6 🚀 StartUP Unicarona<img src="images/trofeu1.png" alt="1º lugar — Startup-SE" width="34" />
 
 <div align="center">
 
@@ -483,19 +558,75 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 | Item | Link |
 |------|------|
 | Landing Page | [Acesse aqui](https://unicarona.caykedev.com/) |
-| Apresentação do Pitch(Slide) | 🔜 _Será adicionada em breve_ <!-- substituir por: [Ver apresentação](COLE_O_LINK_AQUI) --> |
-| Vídeo do Pitch | 🔜 _Será adicionado em breve_ <!-- substituir por: [Assistir ao pitch](COLE_O_LINK_AQUI) --> |
+| Apresentação do Pitch(Slide) | [Ver apresentação](Documentos_Importantes/pitchs/grupo6.pptx) |
+| Vídeo do Pitch | [Assistir ao pitch](https://youtu.be/aItkbt0qFCU)|
 | Apresentação Técnica | [Apresentação](./Unicarona//Apresentação%20Técnica.pptx) |
-| Documentação Swagger | `http://[host]:3000/api-docs` |
-| Vídeo de Demonstração | em breve |
 | Download do APK | [APK](https://unicarona.caykedev.com/#download) |
 
----
-
-## 8. ⭐ Foto da Turma
+#### 📸 Foto da Equipe (Startup-SE)
 
 <div align="center">
 
-_[Inserir foto da turma]_
+ <img src="images/grupo6.jpeg" alt="Equipe Unicarona Startup-SE" width="480" /> 
 
 </div>
+
+---
+
+## 8. 🤝 Apoio do SEBRAE
+
+O **Startup-SE** só foi possível graças ao apoio do **SEBRAE Tocantins**, parceiro da UFT ao longo de toda a jornada. Além de ceder o espaço e viabilizar a parceria, a equipe do SEBRAE ofereceu mentorias que orientaram os alunos no desenvolvimento de seus projetos e ficou responsável por avaliar as soluções apresentadas e definir a equipe campeã. Abaixo, os profissionais que integraram esse apoio:
+
+| Nome | Função |
+|------|--------|
+| Antônia Gelma Pereira da Silva Carvalho | Analista Técnico — Gestora dos Programas Educação Empreendedora e Inovação da Regional Metropolitana (Sebrae/TO) |
+| Hildebrando Silva dos Reis | Agente Local de Inovação — ELI/Palmas (SEBRAE Tocantins) |
+| Adelice Thomaz Soares Novak | Analista Técnico — Coordenadora Estadual de Inovação (SEBRAE/TO) |
+| Edglei Dias Rodrigues | Analista Técnico do Sebrae/TO — Coordenador Estadual de Comércio, Serviço e Sustentabilidade |
+| Francisco de Assis Dias Ramos | Coordenador de Acesso a Crédito e Serviços Financeiros |
+
+---
+
+## 9. ⭐ Foto da Turma
+
+<div align="center">
+
+<img src="images/alunos_treinamento_pitch.jpeg" alt="Equipe Unicarona Startup-SE" width="1000" /> 
+
+</div>
+
+
+---
+
+## 10. 💬 Relatos dos Alunos
+
+Depoimentos de estudantes sobre a experiência na disciplina de **Projeto de Sistemas 2026/1**.
+
+> 💬 _"Posso dizer que a disciplina de Projetos de Sistemas foi muito marcante para mim. Apesar dos grandes desafios enfrentados, como o nível técnico do projeto, a complexidade de se trabalhar em equipe e o cumprimento dos prazos, tudo isso, acredito eu, agrega muito à minha formação como Cientista da Computação em várias esferas, como liderança, mentalidade empresarial e visão de mercado. Diferente do que se propõe em uma matéria de Projeto de Sistemas comum, lá tivemos que sair da nossa zona de conforto e trabalhar com coisas além da pura programação. A ideia de juntar elementos do mundo dos negócios com a computação fez total sentido para mim e, graças a isso, foi possível ampliar muito mais as experiências vividas graças à parceria com o Sebrae, que possibilitou riquíssimas palestras e mentoria. O professor também foi crucial nas suas orientações e fez a matéria ser bem agradável."_
+>
+> — **Tiago Barbosa** · [Grupo 2 — TimerBook](#72--startup-timerbook)
+
+<br>
+
+> 💬 _"Cursar a disciplina de Projeto de Sistemas foi uma experiência única, que me proporcionou uma vivência real do mercado de trabalho, indo muito além da teoria. No âmbito pessoal e profissional, o trabalho em equipe foi essencial e me trouxe noções sólidas de empreendedorismo na prática, que certamente farão diferença na minha carreira. A metodologia adotada foi muito interessante: unir a área de computação com conceitos de negócios e empreendedorismo, como Canvas e Pitch, é uma combinação que não se vê em outras matérias, e ficou evidente como a computação alinhada ao empreendedorismo pode gerar valor real, transformando linhas de código em soluções para o mercado. Fora do ambiente tradicional de sala de aula, a experiência foi igualmente enriquecedora: tive uma excelente interação com meus colegas, o que me permitiu aprimorar a comunicação assertiva, e assumir o papel de líder me deu a oportunidade de apoiar constantemente o meu grupo, garantindo que caminhássemos juntos rumo ao objetivo. Por fim, a condução do professor foi fundamental para o sucesso do projeto — os materiais e documentos eram extremamente claros quanto ao que se esperava nas entregas, e, sempre que surgiam dúvidas, ele se mostrava disponível para nos guiar de forma assertiva."_
+>
+> — **Cristian Herrera** · [Grupo 4 — VibeEvents](#74--startup-vibeevents)
+
+<br>
+
+> 💬 _"Participar da disciplina de Projeto de Sistemas foi uma experiência excelente. Ela me deu uma visão totalmente diferente, que vai muito além do código e dos conceitos técnicos que estamos acostumados. A metodologia trouxe uma interseção perfeita com o mundo real, nos apresentando ferramentas de negócio essenciais como o Canvas e a estruturação de Pitches. Além disso, as atividades e as palestras que o professor trouxe foram extremamente importantes para abrir nossa mente e nos conectar com o mercado. Toda essa trajetória foi muito bem apoiada pela orientação do professor, que foi leve, agradável e fundamental para a conclusão do projeto. Recomendo demais a matéria para quem quer entender o impacto real da computação."_
+>
+> — **Kayke Zago** · [Grupo 2 — TimerBook](#72--startup-timerbook)
+
+---
+
+## 11. 📂 Documentos Importantes
+
+Documentos de planejamento, organização e execução do **Startup-SE**, reunidos na pasta `Documentos_Importantes` do repositório.
+
+| 📄 Documento | Descrição | Link |
+|------|-----------|------|
+| **Planejamento Interno Startup-SE** | Documento elaborado pelos alunos em conjunto com o professor, no qual foram divididas as funções e atividades necessárias para a realização do evento — como definir os responsáveis pela divulgação e pela organização do repositório. | [Acessar](Documentos_Importantes/Planejamento_Interno_StartupSE.pdf) |
+| **Plano de Ação Startup-SE** | Documento elaborado pelo professor da disciplina, apresentando todo o planejamento e a execução do evento: definição das regras, cronograma e demais artefatos usados para viabilizar o Startup-SE em parceria com o SEBRAE. | [Acessar](Documentos_Importantes/Plano_de_Acao_Startup-SE.pdf) |
+| **Redes Sociais dos Alunos** | Documento que concentra os perfis do Instagram dos alunos, usado pela equipe de divulgação para marcar os envolvidos e ampliar o alcance das publicações por meio dos reposts. | [Acessar](Documentos_Importantes/SRedes_Sociais.pdf) |
+| **Cerimonial** | Documento que organiza a condução do evento, com a ordem dos acontecimentos e os textos lidos pelo apresentador — incluindo uma breve descrição e o resumo da proposta de cada projeto. | [Acessar](Documentos_Importantes/cerimonial.pdf) |
