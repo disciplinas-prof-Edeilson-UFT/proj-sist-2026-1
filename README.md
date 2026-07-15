@@ -29,8 +29,9 @@
 | &nbsp;&nbsp;↳ | [Grupo 4 — Vibeevents](#74--startup-vibeevents) |
 | &nbsp;&nbsp;↳ | [Grupo 5 — Superdott](#75--startup-superdott) |
 | &nbsp;&nbsp;↳ | [Grupo 6 — Unicarona](#76--startup-unicarona) |
-| 8️⃣ | [Foto da Turma](#8--foto-da-turma) |
-| 9️⃣ | [Documentos Importantes](#9--documentos-importantes) |
+| 8️⃣ | [Apoio do SEBRAE](#8--apoio-do-sebrae) |
+| 9️⃣ | [Foto da Turma](#9--foto-da-turma) |
+| 🔟 | [Documentos Importantes](#10--documentos-importantes) |
 
 ---
 
@@ -571,7 +572,21 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 ---
 
-## 8. ⭐ Foto da Turma
+## 8. 🤝 Apoio do SEBRAE
+
+O **Startup-SE** só foi possível graças ao apoio do **SEBRAE Tocantins**, parceiro da UFT ao longo de toda a jornada. Além de ceder o espaço e viabilizar a parceria, a equipe do SEBRAE ofereceu mentorias que orientaram os alunos no desenvolvimento de seus projetos e ficou responsável por avaliar as soluções apresentadas e definir a equipe campeã. Abaixo, os profissionais que integraram esse apoio:
+
+| Nome | Função |
+|------|--------|
+| Antônia Gelma Pereira da Silva Carvalho | Analista Técnico — Gestora dos Programas Educação Empreendedora e Inovação da Regional Metropolitana (Sebrae/TO) |
+| Hildebrando Silva dos Reis | Agente Local de Inovação — ELI/Palmas (SEBRAE Tocantins) |
+| Adelice Thomaz Soares Novak | Analista Técnico — Coordenadora Estadual de Inovação (SEBRAE/TO) |
+| Edglei Dias Rodrigues | Analista Técnico do Sebrae/TO — Coordenador Estadual de Comércio, Serviço e Sustentabilidade |
+| Francisco de Assis Dias Ramos | Coordenador de Acesso a Crédito e Serviços Financeiros |
+
+---
+
+## 9. ⭐ Foto da Turma
 
 <div align="center">
 
@@ -582,7 +597,7 @@ O **UniCarona** é uma plataforma mobile de caronas universitárias que:
 
 ---
 
-## 9. 📂 Documentos Importantes
+## 10. 📂 Documentos Importantes
 
 Documentos de planejamento, organização e execução do **Startup-SE**, reunidos na pasta `Documentos_Importantes` do repositório.
 
