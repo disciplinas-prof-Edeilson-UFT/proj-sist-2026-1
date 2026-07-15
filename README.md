@@ -398,7 +398,7 @@ O **Lava-Me** é um aplicativo mobile que conecta clientes a lava-jatos parceiro
 
 #### 📦 Repositórios
 
-[Repositório do Projeto](https://github.com/HeitorFernandes04/projeto_2026_01)
+🔗 [Repositório](https://github.com/HeitorFernandes04/projeto_2026_01)
 
 #### 📑 Documentação Técnica
 
