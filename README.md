@@ -31,7 +31,8 @@
 | &nbsp;&nbsp;↳ | [Grupo 6 — Unicarona](#76--startup-unicarona) |
 | 8️⃣ | [Apoio do SEBRAE](#8--apoio-do-sebrae) |
 | 9️⃣ | [Foto da Turma](#9--foto-da-turma) |
-| 🔟 | [Documentos Importantes](#10--documentos-importantes) |
+| 🔟 | [Relatos dos Alunos](#10--relatos-dos-alunos) |
+| 1️⃣1️⃣ | [Documentos Importantes](#11--documentos-importantes) |
 
 ---
 
@@ -597,7 +598,29 @@ O **Startup-SE** só foi possível graças ao apoio do **SEBRAE Tocantins**, par
 
 ---
 
-## 10. 📂 Documentos Importantes
+## 10. 💬 Relatos dos Alunos
+
+Depoimentos de estudantes sobre a experiência na disciplina de **Projeto de Sistemas 2026/1**.
+
+> 💬 _"Posso dizer que a disciplina de Projetos de Sistemas foi muito marcante para mim. Apesar dos grandes desafios enfrentados, como o nível técnico do projeto, a complexidade de se trabalhar em equipe e o cumprimento dos prazos, tudo isso, acredito eu, agrega muito à minha formação como Cientista da Computação em várias esferas, como liderança, mentalidade empresarial e visão de mercado. Diferente do que se propõe em uma matéria de Projeto de Sistemas comum, lá tivemos que sair da nossa zona de conforto e trabalhar com coisas além da pura programação. A ideia de juntar elementos do mundo dos negócios com a computação fez total sentido para mim e, graças a isso, foi possível ampliar muito mais as experiências vividas graças à parceria com o Sebrae, que possibilitou riquíssimas palestras e mentoria. O professor também foi crucial nas suas orientações e fez a matéria ser bem agradável."_
+>
+> — **Tiago Barbosa** · [Grupo 2 — TimerBook](#72--startup-timerbook)
+
+<br>
+
+> 💬 _"Cursar a disciplina de Projeto de Sistemas foi uma experiência única, que me proporcionou uma vivência real do mercado de trabalho, indo muito além da teoria. No âmbito pessoal e profissional, o trabalho em equipe foi essencial e me trouxe noções sólidas de empreendedorismo na prática, que certamente farão diferença na minha carreira. A metodologia adotada foi muito interessante: unir a área de computação com conceitos de negócios e empreendedorismo, como Canvas e Pitch, é uma combinação que não se vê em outras matérias, e ficou evidente como a computação alinhada ao empreendedorismo pode gerar valor real, transformando linhas de código em soluções para o mercado. Fora do ambiente tradicional de sala de aula, a experiência foi igualmente enriquecedora: tive uma excelente interação com meus colegas, o que me permitiu aprimorar a comunicação assertiva, e assumir o papel de líder me deu a oportunidade de apoiar constantemente o meu grupo, garantindo que caminhássemos juntos rumo ao objetivo. Por fim, a condução do professor foi fundamental para o sucesso do projeto — os materiais e documentos eram extremamente claros quanto ao que se esperava nas entregas, e, sempre que surgiam dúvidas, ele se mostrava disponível para nos guiar de forma assertiva."_
+>
+> — **Cristian Herrera** · [Grupo 4 — VibeEvents](#74--startup-vibeevents)
+
+<br>
+
+> 💬 _"Participar da disciplina de Projeto de Sistemas foi uma experiência excelente. Ela me deu uma visão totalmente diferente, que vai muito além do código e dos conceitos técnicos que estamos acostumados. A metodologia trouxe uma interseção perfeita com o mundo real, nos apresentando ferramentas de negócio essenciais como o Canvas e a estruturação de Pitches. Além disso, as atividades e as palestras que o professor trouxe foram extremamente importantes para abrir nossa mente e nos conectar com o mercado. Toda essa trajetória foi muito bem apoiada pela orientação do professor, que foi leve, agradável e fundamental para a conclusão do projeto. Recomendo demais a matéria para quem quer entender o impacto real da computação."_
+>
+> — **Kayke Zago** · [Grupo 2 — TimerBook](#72--startup-timerbook)
+
+---
+
+## 11. 📂 Documentos Importantes
 
 Documentos de planejamento, organização e execução do **Startup-SE**, reunidos na pasta `Documentos_Importantes` do repositório.
 
